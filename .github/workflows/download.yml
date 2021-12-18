@@ -1,5 +1,4 @@
-name: Datamine Production
-
+name: Download Assets Bundle
 on:
   workflow_dispatch:
 
@@ -12,7 +11,10 @@ jobs:
     - name: Set up Python 3.8
       uses: actions/setup-python@v2
       with:
-        python-version: 3.8    
+        python-version: 3.8  
+    - name: Install requests
+      run: |
+        python -m pip install requests  
     - name: Download
       run: |
         python main.py
