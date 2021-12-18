@@ -1,0 +1,26 @@
+name: Datamine Production
+
+on:
+  workflow_dispatch:
+
+jobs:
+  production:
+    name: Production
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python 3.8
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.8    
+    - name: Download
+      run: |
+        python main.py
+    - name: Push changes
+      if: 
+      run: |
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add .
+        git diff-index --quiet --cached HEAD || git commit -m "Automated"
+        git push origin master
