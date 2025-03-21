@@ -1,0 +1,139 @@
+ManifestFileVersion: 0
+CRC: 1196125828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1c02c56badf503ba767d9bbbcdba829b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a50ad691a3907c4ad1e09cfa25d9240
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eda7d260e444b564c989185d969fbac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e3e95a05e4c9774397eeeb7bdee8ccb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6fa2d92fc1b3f34da284357edf89c3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05acc715f855ced458d76ee6f8ac6c61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e0374501f39d54eb30235764636e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7826745812744540add3457b6383412, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dfabb056a779ae34b9ebd7de425c868b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83b725660221e7d4fa4ebc574a0bb663, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b46e36075dd1c124a8422c228e75e1fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a70c58970443c9a44886429750773015, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e55ac7289bbca4084e7bbf82e494a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 585e20c924ba86a44926c850aa8e1d84, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1fd8daaed7b64148a34acb96ba14ce1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4109f0fac52fe4e4e9233d8513000850, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a4316c8d7c6800f4db436f7f7601d711, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0eeefadd6506ce648b76cc7b57a1b95f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cedab1e6b0a948e696e6c5fb224321a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15c38f6fa1940124db1ab7f6fe7268d1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/unique_effect/Texture/p04_spskl_riasg_blur.png
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/unique_effect/Material/p04_riasg_blur.mat
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/hdd_riasg_001_a01_spskl.prefab
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/skill_text01_l.png
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/unique_effect/Material/p04_riasg_magiccircle.mat
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/unique_effect/Material/p04_riasg_blur_alb.mat
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/hdd_riasg_001_a01_PosteFx.asset
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/unique_effect/Texture/p04_spskl_riasg_magiccircle.png
+- Assets/Lina/LINA-Characters/Characters/hdd_riasg_001/hdd_riasg_001_cmn/spskl/hdd_riasg_001_a01/hdd_riasg_001_a01_spskl_tl.playable
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/common_effects.arc
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/dummy.arc
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/hdd_riasg_001_a01.arc

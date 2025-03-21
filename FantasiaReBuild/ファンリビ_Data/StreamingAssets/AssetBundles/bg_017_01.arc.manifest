@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 1924196446
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d161583235f0689fa24b8858f8af861b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7859cd501ea75098bcf7e53f1b477c26
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Background/AssetData/bg_017_01.png
+Dependencies: []

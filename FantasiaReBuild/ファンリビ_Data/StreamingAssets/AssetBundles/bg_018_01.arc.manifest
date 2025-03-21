@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 11859745
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0371d543d550d065f544d2244b17faa
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: afd12bf211ec48792818822e52781931
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Background/AssetData/bg_018_01.prefab
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/common_effects.arc

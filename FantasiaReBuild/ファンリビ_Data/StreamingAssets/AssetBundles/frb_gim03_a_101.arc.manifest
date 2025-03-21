@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 3216239790
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5bface08f6ac7a0b4d58b150165c8d61
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f3aebf14b711cc05bb8aa72b3db05735
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e3e95a05e4c9774397eeeb7bdee8ccb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d247ba06193faa74d9335f5481b2b56c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f1b3b4b945939a54ea0b23d3396115fb, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 210
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_201_Atlas.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_201_Atlas.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/atk_c.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/atk_b.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_101_Atlas.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_201.atlas.txt
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101.prefab
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101_SkeletonData.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/atk_a.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_101_Material.mat
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101.atlas.txt
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_101.png
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/atk_d.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101.png
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101_Atlas.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101.json
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_201.atlas.txt
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_101.atlas.txt
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/atk_e.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_201.png
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101_Material.mat
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_101_shadow.prefab
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_201_Material.mat
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_a_201_Material.mat
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/idle_a.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/ReferenceAssets/dmg_a.asset
+- Assets/Lina/LINA-Characters/Enemies/frb_gim03/frb_gim03_a_101/frb_gim03_d_201.png
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/common_effects.arc
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/tutorial.arc

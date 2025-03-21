@@ -1,0 +1,121 @@
+ManifestFileVersion: 0
+CRC: 371079364
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 02373547de355e11f1e82944ddf234a5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: cac10859fe32d6055c89112d6c9219f5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e0374501f39d54eb30235764636e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f0e2d951a1b6bb448586c1170e1e663, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_060.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_030_blue.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_001.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_058.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_020.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_030_green.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_012.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_062_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_007_tl.playable
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_064_c.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_065_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_dissolve/Dissolve_blue_dot02.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_042.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_014.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_059_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_064_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_018.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_016.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_056.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_048.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_telecom/Adv_Telecom.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_002_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_023.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_006.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_030_yellow.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_021_tl.playable
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_013.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_030_red.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_043_c.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_057.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_dissolve/Dissolve_purple_dot03.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_051.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_011_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_049.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_059_c.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_025.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_dissolve/Dissolve_blue_dot01.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_051_tl.playable
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_dissolve/Dissolve_blue_gradation01.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_002_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_010.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_061_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_011_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_050.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_024.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_059_d.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_056_tl.playable
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_003_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_022.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_062_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_009.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_063_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_061_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_025_tl.playable
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_021.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_003_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_007.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_dissolve/Dissolve_purple_dot01.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_dissolve/Dissolve_purple_dot02.mat
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_032.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_063_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_064_b.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_043_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_059_a.prefab
+- Assets/Lina/LINA-Effects/EffectData/AssetData_adv/adv_eff_043_b.prefab
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/common_effects.arc

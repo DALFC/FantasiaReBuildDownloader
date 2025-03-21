@@ -1,0 +1,157 @@
+ManifestFileVersion: 0
+CRC: 2063620237
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d1dcfcd190744e828f46a7d4c95f79c1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4bafdedcdf363beaeee266128a3ff218
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Title_Result_Yello_s.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_DirectDamage.mat
+- Assets/Lina/Fonts/FOT-RodinCattleyaPro-DB.otf
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_Abnormal.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_White.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Title_Result_Blue.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_White.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Pink.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_AP_ItemName.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Navy05.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Rank_D.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Black.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Title_Result_Orange.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_White01.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_BattleClear.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_exr_skill_font.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_PlayerName01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Rank_A.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Pink.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_Navy02.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Green.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_SkyBlue.mat
+- Assets/Lina/Fonts/FRB-B SDF_WEAK.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_InfoText_up.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active09.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Birthday.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_DiffusionShadow.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active05.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active03.mat
+- Assets/Lina/Fonts/Normal_Damage_Preset.asset
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_Value.asset
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_WEAK.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Navy01.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_TotalWht.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_exr.asset
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Red.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Normal.mat
+- Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Grey.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_BoxGacha.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Orange.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Attention01.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_BattleStart.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active04.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB.otf
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_MagicDamage.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF.asset
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_Navy04.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Brown02.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/FOT-NewRodinProN-UB SDF_Dash.asset
+- Assets/Lina/Fonts/FRB-B SDF.asset
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF.asset
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_SPSkl_Orange01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_White02.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Rotation_Shadow.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_LvNum.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Grd_Red.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_Navy01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Navy04.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_BattleFailed.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-DB.otf
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Brown01.mat
+- Assets/Lina/Fonts/FOT-RodinCattleyaPro-DB SDF_Adv_message.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_InfoText_down.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Op_01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Fixed_Sortie.mat
+- Assets/Lina/Fonts/FRB-B SDF_Misson_Complete.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_Glow_Pink.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Nolmal02.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Navy02.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Navy03.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Grd_Blue.mat
+- Assets/Lina/Fonts/FRB-B SDF_Outline.mat
+- Assets/Lina/Fonts/FRB-B SDF_Login_Bonus.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_NavyRed.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active08.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_ButtonOn.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_UI_DialogTitle01.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_LvNum_SP.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Rank_SSS.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Title_Result_Yellow.mat
+- Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Adv_Message.mat
+- Assets/Lina/Fonts/FRB-B.otf
+- Assets/TextMesh Pro/Resources/Fonts & Materials/D_FOT-NewRodinProN-DB SDF_Outline_Navy05_log.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_Navy03.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_UI_DialogTitle01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Outline_Green.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_Resist.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_DayCount_Red.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_Red_Lock.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Orange.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Outline_Red.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Grd_DarkBlue.mat
+- Assets/Lina/Fonts/FRB-B SDF_Glow_White.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Nolmal01.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active02.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Not_Organization.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB CriticalDamage.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/D_FOT-NewRodinProN-DB SDF_Outline_Navy06_log.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Skip_Ticket.mat
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF.shader
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active06.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Active.mat
+- Assets/Lina/Shaders/TMPSDF.shadervariants
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_OutLineValue.mat
+- Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Active_Fp.mat
+- Assets/TextMesh Pro/Resources/Fonts & Materials/D_FOT-NewRodinProN-DB SDF_log.asset
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_Glow_Blue.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Glow_Active07.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_Critical.mat
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_Heal.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_SearchPlace.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-UB SDF_PlayerName.mat
+- Assets/Lina/Fonts/FOT-NewRodinProN-UB SDF_NoLineUnderlay.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF.asset
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_SpUp.mat
+- Assets/Lina/Fonts/D_FOT-NewRodinProN-DB SDF_Attention02.mat
+- Assets/Lina/Fonts/FOT-RodinCattleyaPro-DB SDF.asset
+- Assets/Lina/Fonts/Value/FOT-NewRodinProN-UB SDF_NomalDamage.mat
+Dependencies: []

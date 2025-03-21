@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2519536283
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d28a4d12fc25c67ac486bf5cd8c8cf47
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Fragment/fra050005/fra050005_detail.png
+- Assets/Lina/LINA-Fragment/fra050005/fra050005_icon.png
+- Assets/Lina/LINA-Fragment/fra050005/fra050005_equipped.png
+Dependencies: []

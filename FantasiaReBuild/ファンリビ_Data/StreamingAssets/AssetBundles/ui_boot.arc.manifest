@@ -1,0 +1,653 @@
+ManifestFileVersion: 0
+CRC: 3060808405
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72f4e30e98e5fb9c3b8b276a5214bbe2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: bd1b8be108b18e143668196c75b690c6
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 111
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b743370ac3e4ec2a1668f5455a8ef8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c3617b08fd1d4c3a9a97a9218525c41, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 75f4f7c0faa39d74fb1920cdab458703, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: faa0abc0e871b6246965e7ff291840a6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edc8be512a4244d45bf79de716365240, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a4db7a114972834c8e4117be1d82ba3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2da0c512f12947e489f739169773d7ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90400132ef1d543ba8a25e975d1cf055, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd027252532af4a1d86be69f23973df0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8a8695521f0d02e499659fee002a26c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3245ec927659c4140ac4f8d17403cc18, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 306cc8c2b49d7114eaa3623786fc2126, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb34c543da7f64331a94d1bb99ab32a1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 86710e43de46f6f4bac7c8e50813a599, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5504d15361b27e64f8700301612abded, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3312d7739989d2b4e91e6319e9a96d76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 817be593e36ff418a84069dd2cd5e27c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7e491834d167e43f4a5c2adbaa869f8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cfabb0440166ab443bba8876756fdfa9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef779a54ef7fb46e6bd1bbd0c528426a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 509ae674932ffae428b20daf72fbfd75, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: da73a035f1ba3e54fac8623aca08cc46, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c963565ce896de44ae19ec80d5d33a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52fb35163f6024304a3b3164a1208ed2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 16f0b0b6d0b7542bfbd20a3e05b04ff1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1aa08ab6e0800fa44ae55d278d1423e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a216781743a8c184ebddb6f7feb38168, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aa54eb577d6d0ee47934b9996a5b7788, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6784f94816eb343c6a2d29b83df300d6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c57a6fb80eeaf5d46b76abdc8a4afd74, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1344c3c82d62a2a41a3576d8abb8e3ea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce7ac1d92202dd34db9c2d3a649031cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 502fc26acc044482b94124b1e62fcb2f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3759e2aae0f7b9a47bb98fc64bf3c543, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cc7e5b0b096389f4d977b3722890ceca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f90191b9af5ff74ab2736bf0a2ba28f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c430272befc264f40b0ee97362364665, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 195e3aabf1e8cb24fb6be4f1b2c64c57, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 40306178, guid: aa0b1eebb5db27a419fa4564bbe5c9c5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7c2075fbe2c254940bd804c2ae5045c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 03a0884dfb43fd14696fbf6c5502dd04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f20256d361327244b34f8221057de25, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5c44fe7d86459419da318e2b9be226e5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4d0390bd8b8ffd640b34fe25065ff1df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2e87014ec3502044795baa6085ffe828, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9085046f02f69544eb97fd06b6048fe2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29bd12af444bf484f8828e9c3f750c0d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6e4928ef602791b4ca28b40699681746, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueCritical.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SPBackground_SP01_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Window_Quest_Info.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_B.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialog_Maintenance.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoActiveSkl_Var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueOverkill.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Window_Dialg_Confirm_Small.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Titl_VersionUp_Bg.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_He_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Account_Cooperation_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Icon_Notification.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Reward_Item_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Btn_Skill_Support.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfo.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Long_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/TargetLockText.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_NameInput_Complete.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/RewardConfirmation.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Line_Between_Stage.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Su_76x76_Var_Strengthen.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Party_Arrangement_Panel.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/AllAttackButton.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Material_280x280.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Active_Panel.controller
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_D.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Combination_Panel.controller
+- Assets/Lina/LINA-UI/Prefabs/Adv/Voice_Icon.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Content_Log_Message.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Enemy/Anime/ChangeCounter_def_bra.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoCombSkl_Var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/AllcancelButton.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Btn_Menu.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/UiLog_out.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_AbnormalCondition.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SPBackground_SP03.controller
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Chara_200x200_Variant_Strengthen.prefab
+- Assets/Lina/Shaders/UI/UIOnetimeCapture.shader
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/RotationSkillName.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_G.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Icon_Item_3.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Log.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Anime/Btn_Information_click.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Btn_illustrationchange.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Titl_Text_Version_ID.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Window_Quest_List_Field.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Chara_232x232_Var_Set.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/BattleClear.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/PickUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoHeroSkl.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Secret_128x128.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Reward_Item_3.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Damage.controller
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Confirm_Cooperation_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoSpSkl.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Chara_280x280.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/app_top_default.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Home_Bg.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Title_Result.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Pinch.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/HeroSkillButton/HeroSkillButton.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Empty.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_Cooperation_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Btn_Back_Horizontal.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/RotationPanel_Info_Normal.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueTotal.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_NameInput_Error_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Window_Dialog_Friend_Application.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Sp_280x280.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Adv_ScriptTester.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Long_Menu0_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Btn_Skip_var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_finish_01_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/Target_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/List_Appearance_Title.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleClear.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Object_List.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Window_Party_Name_Change.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Enemy/Anime/ChangeCounter_def_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueDamageLayout.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Cursor_Swipe.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/RotationPanelCell.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Sp_Panel.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Window_Class_Diagram.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/NewJoin.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_He_208x208.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_finish_01_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_finish_01_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Fullscreen_Message.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/panel_heal.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/ScrollView.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Blank_224x224.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/SkillChoiceWindow.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/SkillChoiceNormal.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SelectNumber_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Blank_184x184.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueNormal.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Blank_232x232_Variant_Select.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/titlebar.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/List_Quest_Sub.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Expansion_Image.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_PlayerSelect_Male.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_F.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Pa_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_PresentBox_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_CoopPassword_Complete.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Secret_224x224.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/SkillLevelUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Fragment_280x280.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/option/Screentouch_text_00.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Fragment_Select_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Window_SkillConfirmationActive.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/UiLog_in.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Content_Drop_RewardEx.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Enemy_128x128.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/CombinationSkillInfo_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/AllAttackButton_Ready_click.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/Target.controller
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Item_160x160.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Title_Download.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/SpeedButton.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Empty_CharaSet_Var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Secret_Skill_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Message.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/AvailabilityMarkRing_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Still.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Adv_Bg.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Enemy/EnemyUI.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/SpSkill_charge.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/HeroSkillUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Confirm_Cooperation_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_CacheClear.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/TurnSkipButton.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Window_SkillConfirmationCombination.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/icon_combination.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/option/ChangeBtn_skill_00.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/StatusUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleClear.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Chara_Select_List.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SelectNumber.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleFailed_out.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ac_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Corporate_Logo_DMMGAMES.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Critical_in.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_NameInput_Error_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Tutorial_Frame_Circle.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_flash_02.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/AllAttackButton.controller
+- Assets/Lina/Shaders/ui-boot.shadervariants
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_item_02.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Titl_Download_Base.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Banner_368x128.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Attention_Main.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueDamage.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ac_104x104_Var_Strengthen.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Window_SkillConfirmationRotation.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Skill_charge.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Next_Cursor.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Active_Panel.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Pa_200x200.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_Frame.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Skill_Button.controller
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Titl_PlayerName.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Character_bustup.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Window_SpecialConfirmation.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Content_Select_Answer.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Com_Connecting.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_start.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Party_Set.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SPBackground_SP02_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Not_Organization.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/BG_Filter.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_CodeInput.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Icon_Quest_Stage_detail.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_finish_02.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/WaveTransition.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Passive.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Btn_Skill_Combination.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Fragment_224x224_v_NoRare.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Titl_Download_TIPS.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/ClassInfo_normal_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/HeroLvUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/WaveTransition.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/InfoPanel.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/SkillMaster.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Total_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Anime/Titlebar_StatusInformation.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Title_HeroImage_Female.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Fragment_224x224.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Quest.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueHeal.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Btn_Not_Equip.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Release_Cutin.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/BattleFailed.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Reward_Quest_Clear.prefab
+- Assets/Lina/Shaders/LinaSpineUnlit.shader
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Mission_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Closeness_Chara.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Fragment_280x280_Var_Info.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Enemy/Anime/ChangeCounter_last_bra.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Equip.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Total_Damege_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Chara_Set.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Rotation_window.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Window_Dialg_Skip_Ticket.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Fragment_184x184.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_PlayerSelect_Female.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ac_76x76_Var_Strengthen.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SelectNumber_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Battle_Preparation.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/PanelHeal.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/CombinationSkillInfo.controller
+- Assets/Lina/Shaders/UI/UICommon.shader
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Su_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Log_Cell2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_rad_01.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/in_Rskill.anim
+- Assets/Lina/LINA-UI/Prefabs/Adv/Test/BuilderCell.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/NextEnemyInfo_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleFailed.controller
+- Assets/Lina/LINA-UI/Prefabs/Common/SpLevelUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/click_Panel.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Fragment.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_Cooperation_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Total_Damege.controller
+- Assets/Lina/LINA-UI/Prefabs/Adv/Adv_Menu_List.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SPBackground_SP01.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/option/BattleSetting.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/GlobalMenu_new.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_Agreement.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Item_160x160_Var_Result.prefab
+- Assets/Lina/LINA-UI/Data/atlas/Information.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ro_200x200.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/RotationPanelCell_Shadow.prefab
+- Assets/Lina/LINA-UI/Effects/Textures/btl_ui_hero_m.png
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Window_Quest.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_OverWrite_Cooperation.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Window_Quest_List_Home.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Icon_Smash.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/PickUp_rgc.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/HeroSkillButton/Anime/HeroSkillButton_on.anim
+- Assets/Lina/LINA-UI/Data/atlas/InputPlayerNameUI.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_Menu.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Select_Cooperation.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/HeroSkillButton/Anime/HeroSkillButton.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Character_Details.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Active.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Icon_Quest_Stage_field_new_Var_Large.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Character.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Information/Window_Common_Webview.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Combination.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Title_Base.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/BossTransition.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/SpeedButton_normal_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Reward_Item_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Quest_Bg.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Material_112x112_Var_Strengthen.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/Panel.controller
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Sp_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/InfoText_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Tutorial_Cursor.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Party_Arrangement_Change.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Window_Dialg_Confirm.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/option/Title_BattleOption.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/SpSkill_click.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_flash_01.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Bonus_character.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Enemy.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/UiLog_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_Download.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Enemy/Anime/ChangeCounter.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/RewardPanel.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CutIn/Hrskl_Cutin.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/ClassInfo_WeakDown_in.anim
+- Assets/Lina/LINA-UI/Data/atlas/Adv.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Quest_Top.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Search_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/List_Quest_Chapter.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_item_05.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Titl_Download_Bar.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/List_Quest_Sub_Var_Search.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Icon_Quest_Stage_field.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/TargetSelectText.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Reward_Title.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/GlobalMenu.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/SphereInfo_eff.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/ClassInfo_WeakUp_in.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_CacheClear_Complete.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/TargetLock.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueDamageSmall.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_flash_01.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Total.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/SphereInfo_eff_action.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValueTotalDamageLayout.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Loading_Ship_Flight.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/EffectFrontSelect.controller
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Icon_Target_Stage.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/CombinationSkillInfo_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Anime/titlebar.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Btn_Skill_Unlock.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Btn_Back_Vertical.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/InfoText.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/AllAttackButtonNew.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/ClassInfo.controller
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Cooperation_Error_PC.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Btn_Information_Change.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Event_Exchange_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Text_Touch.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/EffectFrontSelect_select_out.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Co_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Window_Dialog_Filter.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_item_03.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/EffectFrontSelect_click.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Critical.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/TargetSelectWindow.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/AppealArea.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Icon_Item_1.prefab
+- Assets/Lina/LINA-UI/Data/atlas/TutorialUI.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/HeroConfirmation_window.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Window_Dialg_Drop_Reward_Result.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoHeroSkl_Var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Combination_Panel.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Bonus_Equip.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_H.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_A.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Anime/Titlebar_SkillInformation.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Rotation_main.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/BattleValue.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Glow_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/option/Screentouch_text_01.prefab
+- Assets/Lina/LINA-UI/Effects/Textures/btl_ui_hero_f.png
+- Assets/Lina/LINA-UI/Data/atlas/Quest.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/ReTransition.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Damage_old.controller
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_thumbnail_flash_01.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_E.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Chara_160x160_Var_search.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Cooperation_Complete.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Anime/Btn_Information_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Character_gift.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/GetPcube.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Cooperation_Error.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleFailed_stay.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Party_Organization.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_flash_03.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/UiLog.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/RotationSkillInfo.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Account_Cooperation_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Sp_344x344.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Btn_Store.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Account_Cooperation_Warning.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Title_HeroImage_Male.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/SpeedButton_quick_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Log_Cell.prefab
+- Assets/Lina/LINA-UI/Data/atlas/BattleUI.spriteatlas
+- Assets/Lina/LINA-UI/Data/atlas/HomeUI.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_AP_Recovery_Item.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/WaveTitle.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Blank_280x280.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/window.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoSupportSkl_Var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_item_04.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Window_MyData.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_SpecialAttack.prefab
+- Assets/Lina/Shaders/Effect/UberShader/FxUberShader.shader
+- Assets/Lina/LINA-UI/Prefabs/Battle/CutIn/Cmbskl_Cutin.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleFailed_on.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialog_VersionUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Scrollbar Vertical.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Btn_Skill_Active.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Sp_Panel.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Window_Dialog_Release_Condition.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Characterdetails/Anime/Characterdetails.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/ClosenessUp.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/EffectFrontSelect_select_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Window_Dialog_Appearance_Title.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_PasswordInput.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_Update.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_Cooperation.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/CombinationSkillInfo_out.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/List_Quest_Sub_Var_Event.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Icon_Quest_Stage_field_new.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Window_Menu.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/RotationLock.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Chara.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Select.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Monologue.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/SpSkill_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Chara_280x280_Var_Info.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Btn_Back_Horizontal_another.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Result_Cutin_Combination_Sample.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Chara_Select_v.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Content_Drop_Reward.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/option/BattleOption.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ro_76x76_Var_Strengthen.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/ActionInfoEnemySkl_Var.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/NextEnemyInfo.controller
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/List_Quest_Event_Top.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Btn_Menu_.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SPBackground_SP03_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Item_128x128.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_flash_04.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Movie.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Title_Download_Debug.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Support.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/SpSkill_Button.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/EffectFrontSelect_select_click.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Damage_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/AllAttackButton_Ready_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/CharacterdetailsUI/Window_Rotation_sub.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/HeroLv.prefab
+- Assets/Lina/LINA-UI/Prefabs/Adv/Window_Log_Message_List.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Window_Dialg_Confirm_Continue.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Banner_368x280.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_finish_01_1.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/RotationSkill.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Window_SkillConfirmationSupport.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Voice_Icon.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Btn_HeroGuide.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Skill_click.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Heal.controller
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ac_200x200.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Fragment_232x232_Var_Set.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Heal_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/RotationPanelEmpty.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Account_Cooperation_Complete.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/NextEnemyInfo.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Home/Window_SubMenu.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Fragment_Select_List.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Party_Arrangement.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/List_Quest_Sub_Top.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/HeroSkillButton/Anime/HeroSkillButton_off.anim
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/TitleBG_C.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Value/Anime/Damage_in_old.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title_Gacha_Top.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/SPBackground_SP02.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Icon_Item_2.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_rbd_flash_02.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/WaveTransition.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/Transition/Anime/BattleFailed_in.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/in_Rskill.controller
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Skillchoice.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Material_160x160_Var_Strengthen.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Icon_Class_Type.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/Frame_Chara_Result.prefab
+- Assets/Lina/LINA-UI/Data/atlas/TitleUI.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Battle/RotationPanel/Anime/continue_Panel.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Target.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Header_Title.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/NextEnemyInfo_in_count.anim
+- Assets/Lina/LINA-UI/Data/atlas/CorporateLogoUI.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Co_200x200.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Quest/Information_Event.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Panel_PartyName.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Tutorial_Frame.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Chara_224x224.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Ro_144x144.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Window_Dialog_Sort.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Corporate_Logo_KADOKAWA.prefab
+- Assets/Lina/LINA-UI/Data/atlas/LoadingUI.spriteatlas
+- Assets/Lina/LINA-UI/Prefabs/Battle/SkillChoice/Anime/Skill_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Battle/BattlePreparation/Frame_Guest.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Enemy/Anime/ChangeCounter_last_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Item_224x224.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Object_Expansion_Image.prefab
+- Assets/Lina/LINA-UI/Prefabs/Common/Vfx_ehc_item_01.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/information/Anime/AllAttackButton_idle.anim
+- Assets/Lina/LINA-UI/Prefabs/Common/Icon_Su_200x200.prefab
+- Assets/Lina/LINA-UI/Prefabs/OutGame/Title/Window_Dialg_CacheClear.prefab
+- Assets/Lina/LINA-UI/Prefabs/Battle/Result/CombinationSkillUp.prefab
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina_windows/LinaUnityProject/AssetBundles/StandaloneWindows64/common_icon.arc
+- /Users/lina-dev/PROJECT/Lina/lina_windows/LinaUnityProject/AssetBundles/StandaloneWindows64/font.arc
+- /Users/lina-dev/PROJECT/Lina/lina_windows/LinaUnityProject/AssetBundles/StandaloneWindows64/ui.arc

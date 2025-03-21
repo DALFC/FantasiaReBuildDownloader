@@ -1,0 +1,30 @@
+ManifestFileVersion: 0
+CRC: 4271640101
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f552d7ce5d9d7cf7aa1a2f43d61321c6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 07353491aca6e6a29636b555171f2e48
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Background/AssetData/bg_015_01.prefab
+Dependencies: []

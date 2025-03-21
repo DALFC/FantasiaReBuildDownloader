@@ -1,0 +1,46 @@
+ManifestFileVersion: 0
+CRC: 3208508184
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 634f3092862dd97499959970c82d73c9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f5e9d02be5e9cb31866d466b67b2be9f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3759e2aae0f7b9a47bb98fc64bf3c543, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-Other/EnemyDrop/anim/sphere_anim.anim
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/drop_sphere_eff_mat.mat
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/drop_sphere_mat.mat
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/sampl_item2.png
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/sphere_tex_eff.png
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/sphere_tex.png
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/drop_item_mat.mat
+- Assets/Lina/LINA-Other/EnemyDrop/Texture/sampl_item1.png
+- Assets/Lina/LINA-Other/EnemyDrop/item_drp.prefab
+- Assets/Lina/LINA-Other/EnemyDrop/sphere_drp.prefab
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina_windows/LinaUnityProject/AssetBundles/StandaloneWindows64/ui_boot.arc

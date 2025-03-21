@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1744562407
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9c14b8e1ac9efda283c3b7086fa65f44
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c90fc19e2679e5295d10bd00f33cb4c3
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-UI/Data/CommonIcon/Item/mat01000001.png
+Dependencies: []

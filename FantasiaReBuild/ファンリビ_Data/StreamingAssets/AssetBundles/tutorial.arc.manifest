@@ -1,0 +1,299 @@
+ManifestFileVersion: 0
+CRC: 3368557163
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 89e7e11bdcbd7b8e15502ff434735429
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f79df1254972e3705f2b91e799751c6e
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 948f4100a11a5c24981795d21301da5c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48a79b01ea5641d4aa6daa2e23605641, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0fc6f5187a81dc47999eefade6f0935, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 21bf7f712d84d26478ebe6a299f21738, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d6fa2d92fc1b3f34da284357edf89c3b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e6292b2c06870d4495f009f912b9600, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d21dcc2386d650c4597f3633c75a1f98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 030f85c3f73729f4f976f66ffb23b875, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48853ae485fa386428341ac1ea122570, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 05acc715f855ced458d76ee6f8ac6c61, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15e0374501f39d54eb30235764636e0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 52fb35163f6024304a3b3164a1208ed2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b46e36075dd1c124a8422c228e75e1fb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30f4b897495c7ad40b2d47143e02aaba, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e9e55ac7289bbca4084e7bbf82e494a7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 00b2d199b96b516448144ab30fb26aed, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e52de21a22b6dd44c9cc19f810c65059, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 90fb794a295e73545af71bcdb7375791, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fde0d25a170598d46a0b9dc16b4527a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bfda56da833e2384a9677cd3c976a436, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a16748d9461eae46a725db9776d5390, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6cedab1e6b0a948e696e6c5fb224321a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8b9a305e18de0c04dbd257a21cd47087, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9541d86e2fd84c1d9990edf0852d74ab, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 07994bfe8b0e4adb97d706de5dea48d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 15c38f6fa1940124db1ab7f6fe7268d1, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 200
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_combination.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Animation/w_s_bg_timeline_root.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_shany_001_a01/frb_shany_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_tessa_001_a01/fmp_tessa_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/Texture/st_ui_text_section_01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup07.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_combination.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup07.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup07.png
+- Assets/Lina/LINA-UI/Data/EnemyIcon/frb_gim03_a_201/frb_gim03_a_201_icon.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_nameeff.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup09.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_kotri_000_a01/dal_kotri_000_a01_bustup03.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_particle.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_all.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/world_sabun/w_s_space_tex_03.prefab
+- Assets/Lina/LINA-UI/Data/CommonIcon/StageIcon/stage_icon_002.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup10.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_result.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_kotri_000_a01/dal_kotri_000_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_rotation.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/animation/s_s_title001_tl.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_info.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_line02.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_whiteout.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/animation/s_s_bg_001_tl.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_tessa_001_a01/fmp_tessa_001_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_result.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/w_s_title001_PosteFx.asset
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_result.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_tessa_001_a01/fmp_tessa_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_combination.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup08.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup06.png
+- Assets/Lina/Shaders/LinaSpineUnlit.shader
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_all.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_result.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_info.png
+- Assets/Lina/Shaders/LinaSpineUnlit.shadervariants
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/w_s_title_c_aberration_l_PosteFx.asset
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_combination.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/Texture/st_ui_text_world_01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup05.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_linefrow01.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/world_sabun/w_s_space_tex_02.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_cross.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/world_sabun/w_s_space_block_03.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_bustup05.png
+- Assets/Plugins/ParticleEffectForUGUI/Coffee/UIExtensions/UIParticle/Shaders/UIAdditive.shader
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_tessa_001_a01/fmp_tessa_001_a01_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_kotri_000_a01/dal_kotri_000_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_details.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/s_s_title_c_aberration_l_PosteFx.asset
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_icon.png
+- Assets/Plugins/ParticleEffectForUGUI/UIParticle_Demo/UIAdditive.mat
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_eizen_001_a01/frb_eizen_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_tessa_001_a01/fmp_tessa_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_kotri_000_a01/dal_kotri_000_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup05.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/s_s_title001_PosteFx.asset
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_details.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_bg_root.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup07.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/world_sabun/w_s_space_block_02.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/world_sabun/w_s_space_tex_01.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_result.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_bustup07.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_gustv_001_a01/frb_gustv_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_result.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_glow.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/w_s_title001.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_line01.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/animation/s_s_text_timeline_root.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/EnemyIcon/frb_gim01_a_101/frb_gim01_a_101_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_kotri_000_a01/dal_kotri_000_a01_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dyd_ryner_001_a01/dyd_ryner_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_bustup02.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_details.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_tessa_001_a01/fmp_tessa_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/rok_glenn_001_a01/rok_glenn_001_a01_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/kkl_felii_001_a01/kkl_felii_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/animation/s_s_title001_tl_new.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_bustup04.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/animation/s_s_text_timeline_root_new.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_kotri_000_a01/dal_kotri_000_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/EnemyIcon/frb_gim02_a_101/frb_gim02_a_101_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_all.png
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/animation/s_s_bg_001_tl_new.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_eizen_001_a01/frb_eizen_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_combination.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_bustup04.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_rotation.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_em001_001_a01/frb_em001_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_soske_001_a01/fmp_soske_001_a01_icon.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_blockfrow.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/02Section/Prefabs/s_s_title001.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_bustup08.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/w_s_linefrow02.prefab
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Animation/w_s_text_timeline_root.playable
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup08.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_result.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/hdd_riasg_001_a01/hdd_riasg_001_a01_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_001_a01/frb_ende_001_a01_icon.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/dal_tohka_001_a01/dal_tohka_001_a01_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_ende_000_a01/frb_ende_000_a01_bustup05.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/fmp_bntry_001_a01/fmp_bntry_001_a01_bustup03.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_rinot_000_a01/frb_rinot_000_a01_bustup06.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_wplayer_001/frb_wplayer_001_bustup01.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_mplayer_001/frb_mplayer_001_bustup02.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Prefabs/world_sabun/w_s_space_block_01.prefab
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_thlth_001_a01/frb_thlth_001_a01_bustup07.png
+- Assets/Lina/LINA-UI/Data/CharacterIcon/frb_eizen_001_a01/frb_eizen_001_a01_bustup01.png
+- Assets/Lina/LINA-UI/ScenarioTitle/01WorldStart/Animation/w_s_title001_tl.playable
+Dependencies:
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/common_effects.arc
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/font.arc
+- /Users/lina-dev/PROJECT/Lina/lina-exr_windows/LinaUnityExr/AssetBundles/StandaloneWindows64/scenario_title.arc

@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 3422809707
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bb002bb33e0e0dc6c3022c53b96057b1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c4d5dee85f6c263eb0adbea350984ae1
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 687078895
+  Script: {instanceID: 0}
+Assets:
+- Assets/Lina/LINA-UI/Data/atlas/CommonUI.spriteatlas
+Dependencies: []
