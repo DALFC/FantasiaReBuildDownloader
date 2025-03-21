@@ -1,0 +1,139 @@
+
+tmd_tkeru_001_spskl_obj05.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 1337, 181
+  size: 96, 144
+  orig: 1560, 1560
+  offset: 1007, 537
+  index: -1
+F_arm_LUp
+  rotate: false
+  xy: 1520, 25
+  size: 58, 111
+  orig: 1560, 1560
+  offset: 995, 615
+  index: -1
+F_arm_Lup_kata
+  rotate: false
+  xy: 581, 123
+  size: 139, 202
+  orig: 1560, 1560
+  offset: 985, 662
+  index: -1
+F_arm_Lup_kata_ura
+  rotate: false
+  xy: 1512, 274
+  size: 59, 50
+  orig: 1560, 1560
+  offset: 1029, 663
+  index: -1
+F_arm_RDown
+  rotate: false
+  xy: 1435, 138
+  size: 75, 146
+  orig: 1560, 1560
+  offset: 836, 546
+  index: -1
+F_arm_RUp
+  rotate: false
+  xy: 1447, 11
+  size: 71, 125
+  orig: 1560, 1560
+  offset: 864, 633
+  index: -1
+F_arm_RUp_kata
+  rotate: false
+  xy: 960, 39
+  size: 120, 192
+  orig: 1560, 1560
+  offset: 828, 671
+  index: -1
+F_body
+  rotate: false
+  xy: 247, 10
+  size: 212, 317
+  orig: 1560, 1560
+  offset: 838, 483
+  index: -1
+F_body1
+  rotate: true
+  xy: 1082, 10
+  size: 153, 104
+  orig: 1560, 1560
+  offset: 867, 499
+  index: -1
+F_hand_L2
+  rotate: false
+  xy: 1512, 138
+  size: 78, 83
+  orig: 1560, 1560
+  offset: 1020, 487
+  index: -1
+F_hand_R2
+  rotate: true
+  xy: 1245, 3
+  size: 74, 93
+  orig: 1560, 1560
+  offset: 804, 483
+  index: -1
+F_head
+  rotate: false
+  xy: 2, 47
+  size: 254, 278
+  orig: 1560, 1560
+  offset: 832, 754
+  index: -1
+F_leg_LDown
+  rotate: false
+  xy: 829, 26
+  size: 168, 301
+  orig: 1560, 1560
+  offset: 993, 162
+  index: -1
+F_leg_LUp
+  rotate: false
+  xy: 447, 22
+  size: 132, 231
+  orig: 1560, 1560
+  offset: 946, 335
+  index: -1
+F_leg_RDown
+  rotate: false
+  xy: 1188, 44
+  size: 151, 282
+  orig: 1560, 1560
+  offset: 809, 181
+  index: -1
+F_leg_RUp
+  rotate: true
+  xy: 581, 8
+  size: 113, 246
+  orig: 1560, 1560
+  offset: 838, 338
+  index: -1
+F_skrt_C
+  rotate: true
+  xy: 1082, 165
+  size: 160, 140
+  orig: 1560, 1560
+  offset: 861, 483
+  index: -1
+F_skrt_L
+  rotate: true
+  xy: 1340, 27
+  size: 109, 105
+  orig: 1560, 1560
+  offset: 951, 512
+  index: -1
+F_skrt_R
+  rotate: true
+  xy: 1512, 223
+  size: 49, 106
+  orig: 1560, 1560
+  offset: 834, 512
+  index: -1

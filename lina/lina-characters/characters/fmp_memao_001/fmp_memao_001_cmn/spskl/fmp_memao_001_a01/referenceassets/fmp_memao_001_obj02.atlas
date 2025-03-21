@@ -1,0 +1,20 @@
+
+fmp_memao_001_obj02.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monitor
+  rotate: false
+  xy: 2, 636
+  size: 547, 708
+  orig: 1560, 1560
+  offset: 395, 300
+  index: -1
+temae
+  rotate: false
+  xy: 2, 2
+  size: 584, 632
+  orig: 1560, 1560
+  offset: 759, 300
+  index: -1

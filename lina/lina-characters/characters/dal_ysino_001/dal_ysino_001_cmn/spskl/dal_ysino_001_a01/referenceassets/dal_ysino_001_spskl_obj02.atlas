@@ -1,0 +1,34 @@
+
+dal_ysino_001_spskl_obj02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Up_zad
+  rotate: false
+  xy: 2, 1138
+  size: 1394, 600
+  orig: 1560, 1560
+  offset: 166, 0
+  index: -1
+Up_zad_mimi
+  rotate: false
+  xy: 930, 349
+  size: 684, 787
+  orig: 1560, 1560
+  offset: 608, 748
+  index: -1
+mimi_r
+  rotate: true
+  xy: 735, 2
+  size: 345, 749
+  orig: 1560, 1560
+  offset: 305, 778
+  index: -1
+zag_head
+  rotate: false
+  xy: 2, 185
+  size: 928, 952
+  orig: 1560, 1560
+  offset: 24, 42
+  index: -1

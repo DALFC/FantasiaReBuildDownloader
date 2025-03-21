@@ -1,0 +1,27 @@
+
+dal_natmi_001_a01_spskl_obj01.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mil_0
+  rotate: false
+  xy: 2, 2
+  size: 137, 73
+  orig: 256, 256
+  offset: 0, 120
+  index: -1
+mil_1
+  rotate: false
+  xy: 141, 7
+  size: 129, 68
+  orig: 256, 256
+  offset: 0, 125
+  index: -1
+mil_2
+  rotate: false
+  xy: 2, 77
+  size: 254, 254
+  orig: 256, 256
+  offset: 0, 1
+  index: -1

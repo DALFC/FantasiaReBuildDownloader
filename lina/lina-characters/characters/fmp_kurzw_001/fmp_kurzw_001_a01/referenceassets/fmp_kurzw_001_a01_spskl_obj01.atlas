@@ -1,0 +1,20 @@
+
+fmp_kurzw_001_a01_spskl_obj01.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jyukou
+  rotate: false
+  xy: 969, 380
+  size: 356, 391
+  orig: 1560, 1560
+  offset: 603, 475
+  index: -1
+saito
+  rotate: false
+  xy: 2, 2
+  size: 965, 769
+  orig: 1560, 1560
+  offset: 297, 0
+  index: -1

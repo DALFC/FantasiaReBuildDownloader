@@ -1,0 +1,111 @@
+
+frb_golem_a_201.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 868, 182
+  size: 300, 347
+  orig: 1232, 1232
+  offset: 612, 181
+  index: -1
+F_arm_LUp
+  rotate: true
+  xy: 426, 227
+  size: 302, 440
+  orig: 1232, 1232
+  offset: 628, 408
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 1430, 16
+  size: 213, 264
+  orig: 1232, 1232
+  offset: 167, 300
+  index: -1
+F_arm_RUp
+  rotate: false
+  xy: 1170, 145
+  size: 258, 384
+  orig: 1232, 1232
+  offset: 166, 472
+  index: -1
+F_body1
+  rotate: false
+  xy: 2, 171
+  size: 422, 358
+  orig: 1232, 1232
+  offset: 294, 488
+  index: -1
+F_body2
+  rotate: false
+  xy: 2, 19
+  size: 179, 150
+  orig: 1232, 1232
+  offset: 497, 385
+  index: -1
+F_face
+  rotate: true
+  xy: 1696, 35
+  size: 194, 250
+  orig: 1232, 1232
+  offset: 353, 690
+  index: -1
+F_foot_L
+  rotate: true
+  xy: 1851, 338
+  size: 191, 175
+  orig: 1232, 1232
+  offset: 648, 48
+  index: -1
+F_foot_R
+  rotate: false
+  xy: 648, 3
+  size: 237, 177
+  orig: 1232, 1232
+  offset: 315, 97
+  index: -1
+F_hand_L
+  rotate: false
+  xy: 426, 27
+  size: 220, 198
+  orig: 1232, 1232
+  offset: 608, 139
+  index: -1
+F_hand_R
+  rotate: false
+  xy: 887, 2
+  size: 197, 178
+  orig: 1232, 1232
+  offset: 155, 214
+  index: -1
+F_leg_LDown
+  rotate: false
+  xy: 1650, 231
+  size: 199, 298
+  orig: 1232, 1232
+  offset: 651, 125
+  index: -1
+F_leg_LUp
+  rotate: true
+  xy: 183, 45
+  size: 124, 203
+  orig: 1232, 1232
+  offset: 620, 314
+  index: -1
+F_leg_RDown
+  rotate: false
+  xy: 1430, 250
+  size: 218, 279
+  orig: 1232, 1232
+  offset: 356, 163
+  index: -1
+F_leg_RUp
+  rotate: true
+  xy: 1086, 11
+  size: 132, 176
+  orig: 1232, 1232
+  offset: 436, 340
+  index: -1

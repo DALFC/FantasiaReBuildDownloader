@@ -1,0 +1,48 @@
+
+gms_chaki_a01_spskl_obj04.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+karen_at_junp
+  rotate: false
+  xy: 544, 85
+  size: 452, 584
+  orig: 1024, 1024
+  offset: 312, 172
+  index: -1
+karen_at_junp_eff
+  rotate: true
+  xy: 2, 7
+  size: 76, 604
+  orig: 1024, 1024
+  offset: 308, 140
+  index: -1
+karen_at_tate
+  rotate: false
+  xy: 1396, 277
+  size: 292, 392
+  orig: 1024, 1024
+  offset: 516, 260
+  index: -1
+karen_at_tate_eff
+  rotate: false
+  xy: 2, 133
+  size: 540, 536
+  orig: 1024, 1024
+  offset: 256, 272
+  index: -1
+karen_at_yoko
+  rotate: true
+  xy: 998, 233
+  size: 436, 396
+  orig: 1024, 1024
+  offset: 496, 260
+  index: -1
+karen_at_yoko_eff
+  rotate: false
+  xy: 998, 3
+  size: 740, 228
+  orig: 1024, 1024
+  offset: 176, 320
+  index: -1

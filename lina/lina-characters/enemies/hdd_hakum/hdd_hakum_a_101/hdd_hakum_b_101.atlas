@@ -1,0 +1,258 @@
+
+hdd_hakum_b_101.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 534, 222
+  size: 225, 420
+  orig: 1540, 1540
+  offset: 575, 371
+  index: -1
+F_arm_LUp
+  rotate: true
+  xy: 1894, 2
+  size: 91, 133
+  orig: 1540, 1540
+  offset: 671, 634
+  index: -1
+F_arm_RDown
+  rotate: false
+  xy: 761, 242
+  size: 227, 400
+  orig: 1540, 1540
+  offset: 407, 389
+  index: -1
+F_arm_RUp
+  rotate: true
+  xy: 780, 2
+  size: 86, 128
+  orig: 1540, 1540
+  offset: 545, 635
+  index: -1
+F_body_Down
+  rotate: false
+  xy: 2, 239
+  size: 530, 403
+  orig: 1540, 1540
+  offset: 545, 284
+  index: -1
+F_body_Up
+  rotate: true
+  xy: 2, 48
+  size: 189, 326
+  orig: 1540, 1540
+  offset: 565, 481
+  index: -1
+F_hair
+  rotate: false
+  xy: 330, 61
+  size: 191, 176
+  orig: 1540, 1540
+  offset: 573, 743
+  index: -1
+F_leg01_LA
+  rotate: false
+  xy: 1044, 99
+  size: 124, 154
+  orig: 1540, 1540
+  offset: 703, 271
+  index: -1
+F_leg01_LB
+  rotate: false
+  xy: 1170, 70
+  size: 92, 183
+  orig: 1540, 1540
+  offset: 781, 295
+  index: -1
+F_leg01_LC
+  rotate: false
+  xy: 990, 255
+  size: 208, 387
+  orig: 1540, 1540
+  offset: 802, 157
+  index: -1
+F_leg01_RA
+  rotate: false
+  xy: 780, 90
+  size: 130, 150
+  orig: 1540, 1540
+  offset: 517, 290
+  index: -1
+F_leg01_RB
+  rotate: false
+  xy: 1452, 68
+  size: 84, 185
+  orig: 1540, 1540
+  offset: 480, 313
+  index: -1
+F_leg01_RC
+  rotate: false
+  xy: 1619, 282
+  size: 207, 360
+  orig: 1540, 1540
+  offset: 337, 202
+  index: -1
+F_leg02_LA
+  rotate: false
+  xy: 523, 58
+  size: 128, 162
+  orig: 1540, 1540
+  offset: 796, 284
+  index: -1
+F_leg02_LB
+  rotate: false
+  xy: 1264, 70
+  size: 92, 183
+  orig: 1540, 1540
+  offset: 878, 309
+  index: -1
+F_leg02_LC
+  rotate: false
+  xy: 1200, 255
+  size: 208, 387
+  orig: 1540, 1540
+  offset: 899, 171
+  index: -1
+F_leg02_RA
+  rotate: false
+  xy: 912, 90
+  size: 130, 150
+  orig: 1540, 1540
+  offset: 624, 304
+  index: -1
+F_leg03_RA
+  rotate: false
+  xy: 912, 90
+  size: 130, 150
+  orig: 1540, 1540
+  offset: 721, 315
+  index: -1
+F_leg02_RB
+  rotate: false
+  xy: 1894, 95
+  size: 84, 185
+  orig: 1540, 1540
+  offset: 586, 328
+  index: -1
+F_leg03_RB
+  rotate: false
+  xy: 1894, 95
+  size: 84, 185
+  orig: 1540, 1540
+  offset: 683, 338
+  index: -1
+F_leg02_RC
+  rotate: false
+  xy: 1828, 282
+  size: 206, 360
+  orig: 1540, 1540
+  offset: 444, 217
+  index: -1
+F_leg03_RC
+  rotate: false
+  xy: 1828, 282
+  size: 206, 360
+  orig: 1540, 1540
+  offset: 541, 228
+  index: -1
+F_leg03_LA
+  rotate: false
+  xy: 653, 63
+  size: 125, 157
+  orig: 1540, 1540
+  offset: 896, 298
+  index: -1
+F_leg03_LB
+  rotate: false
+  xy: 1358, 70
+  size: 92, 183
+  orig: 1540, 1540
+  offset: 975, 323
+  index: -1
+F_leg03_LC
+  rotate: false
+  xy: 1410, 255
+  size: 207, 387
+  orig: 1540, 1540
+  offset: 997, 184
+  index: -1
+F_tail
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_under_head
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_under_headparts_L
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_under_headparts_R
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_LDown
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_LUp
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_RDown
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_RUp
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_L
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_R
+  rotate: false
+  xy: 2, 45
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_top_head
+  rotate: false
+  xy: 1619, 48
+  size: 273, 232
+  orig: 1540, 1540
+  offset: 479, 724
+  index: -1

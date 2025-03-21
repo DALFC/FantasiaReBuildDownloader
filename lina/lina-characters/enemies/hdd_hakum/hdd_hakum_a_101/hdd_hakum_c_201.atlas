@@ -1,0 +1,258 @@
+
+hdd_hakum_c_201.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 534, 401
+  size: 253, 385
+  orig: 1540, 1540
+  offset: 575, 371
+  index: -1
+F_arm_LUp
+  rotate: false
+  xy: 1903, 39
+  size: 93, 134
+  orig: 1540, 1540
+  offset: 670, 634
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 534, 192
+  size: 207, 377
+  orig: 1540, 1540
+  offset: 388, 381
+  index: -1
+F_arm_RUp
+  rotate: true
+  xy: 377, 2
+  size: 86, 128
+  orig: 1540, 1540
+  offset: 545, 636
+  index: -1
+F_body_Down
+  rotate: false
+  xy: 2, 383
+  size: 530, 403
+  orig: 1540, 1540
+  offset: 545, 284
+  index: -1
+F_body_Up
+  rotate: true
+  xy: 1654, 175
+  size: 190, 325
+  orig: 1540, 1540
+  offset: 564, 482
+  index: -1
+F_hair
+  rotate: true
+  xy: 789, 401
+  size: 365, 263
+  orig: 1540, 1540
+  offset: 572, 658
+  index: -1
+F_leg01_LA
+  rotate: true
+  xy: 995, 66
+  size: 124, 156
+  orig: 1540, 1540
+  offset: 703, 270
+  index: -1
+F_leg01_LB
+  rotate: true
+  xy: 2, 79
+  size: 93, 185
+  orig: 1540, 1540
+  offset: 781, 294
+  index: -1
+F_leg01_LC
+  rotate: false
+  xy: 1350, 367
+  size: 209, 419
+  orig: 1540, 1540
+  offset: 802, 156
+  index: -1
+F_leg01_RA
+  rotate: true
+  xy: 533, 59
+  size: 131, 152
+  orig: 1540, 1540
+  offset: 517, 289
+  index: -1
+F_leg01_RB
+  rotate: true
+  xy: 1526, 72
+  size: 85, 187
+  orig: 1540, 1540
+  offset: 479, 312
+  index: -1
+F_leg01_RC
+  rotate: true
+  xy: 1283, 159
+  size: 206, 369
+  orig: 1540, 1540
+  offset: 337, 201
+  index: -1
+F_leg02_LA
+  rotate: false
+  xy: 372, 218
+  size: 129, 163
+  orig: 1540, 1540
+  offset: 795, 284
+  index: -1
+F_leg02_LB
+  rotate: true
+  xy: 1153, 64
+  size: 93, 185
+  orig: 1540, 1540
+  offset: 878, 308
+  index: -1
+F_leg02_LC
+  rotate: false
+  xy: 1561, 367
+  size: 209, 419
+  orig: 1540, 1540
+  offset: 899, 170
+  index: -1
+F_leg02_RA
+  rotate: true
+  xy: 687, 59
+  size: 131, 152
+  orig: 1540, 1540
+  offset: 623, 304
+  index: -1
+F_leg02_RB
+  rotate: true
+  xy: 1715, 88
+  size: 85, 186
+  orig: 1540, 1540
+  offset: 585, 327
+  index: -1
+F_leg02_RC
+  rotate: true
+  xy: 913, 192
+  size: 207, 368
+  orig: 1540, 1540
+  offset: 443, 216
+  index: -1
+F_leg03_LA
+  rotate: true
+  xy: 372, 90
+  size: 126, 159
+  orig: 1540, 1540
+  offset: 896, 297
+  index: -1
+F_leg03_LB
+  rotate: true
+  xy: 1340, 64
+  size: 93, 184
+  orig: 1540, 1540
+  offset: 975, 322
+  index: -1
+F_leg03_LC
+  rotate: false
+  xy: 1772, 367
+  size: 209, 419
+  orig: 1540, 1540
+  offset: 996, 184
+  index: -1
+F_leg03_RA
+  rotate: true
+  xy: 841, 59
+  size: 131, 152
+  orig: 1540, 1540
+  offset: 720, 314
+  index: -1
+F_leg03_RB
+  rotate: true
+  xy: 189, 3
+  size: 85, 186
+  orig: 1540, 1540
+  offset: 682, 338
+  index: -1
+F_leg03_RC
+  rotate: true
+  xy: 2, 174
+  size: 207, 368
+  orig: 1540, 1540
+  offset: 540, 227
+  index: -1
+F_tail
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_under_head
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_under_headparts_L
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_under_headparts_R
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_LDown
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_LUp
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_RDown
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_underarm_RUp
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_L
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_R
+  rotate: false
+  xy: 189, 171
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_top_head
+  rotate: false
+  xy: 1054, 455
+  size: 294, 311
+  orig: 1540, 1540
+  offset: 491, 724
+  index: -1

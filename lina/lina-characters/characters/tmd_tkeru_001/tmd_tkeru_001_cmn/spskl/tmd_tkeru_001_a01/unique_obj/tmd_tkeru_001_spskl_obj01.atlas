@@ -1,0 +1,13 @@
+
+tmd_tkeru_001_spskl_obj01.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon
+  rotate: false
+  xy: 2, 3
+  size: 978, 103
+  orig: 1560, 1560
+  offset: 127, 479
+  index: -1

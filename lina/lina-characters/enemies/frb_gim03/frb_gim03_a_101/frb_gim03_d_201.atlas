@@ -1,0 +1,83 @@
+
+frb_gim03_d_201.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 1396, 564
+  size: 730, 430
+  orig: 1540, 1540
+  offset: 429, 256
+  index: -1
+claw1
+  rotate: false
+  xy: 514, 259
+  size: 510, 1035
+  orig: 1540, 1540
+  offset: 127, 161
+  index: -1
+claw3
+  rotate: false
+  xy: 2, 258
+  size: 510, 1036
+  orig: 1540, 1540
+  offset: 942, 160
+  index: -1
+craw2
+  rotate: false
+  xy: 1026, 198
+  size: 368, 1096
+  orig: 1540, 1540
+  offset: 701, 45
+  index: -1
+head
+  rotate: false
+  xy: 1396, 169
+  size: 524, 393
+  orig: 1540, 1540
+  offset: 400, 652
+  index: -1
+leg1
+  rotate: false
+  xy: 514, 2
+  size: 311, 255
+  orig: 1540, 1540
+  offset: 362, 529
+  index: -1
+leg2
+  rotate: false
+  xy: 1828, 1085
+  size: 183, 209
+  orig: 1540, 1540
+  offset: 780, 474
+  index: -1
+leg3
+  rotate: false
+  xy: 2, 20
+  size: 331, 236
+  orig: 1540, 1540
+  offset: 893, 528
+  index: -1
+upleg1
+  rotate: false
+  xy: 1828, 969
+  size: 129, 114
+  orig: 1540, 1540
+  offset: 629, 533
+  index: -1
+upleg2
+  rotate: false
+  xy: 1828, 710
+  size: 87, 141
+  orig: 1540, 1540
+  offset: 753, 476
+  index: -1
+upleg3
+  rotate: false
+  xy: 1828, 853
+  size: 129, 114
+  orig: 1540, 1540
+  offset: 810, 533
+  index: -1

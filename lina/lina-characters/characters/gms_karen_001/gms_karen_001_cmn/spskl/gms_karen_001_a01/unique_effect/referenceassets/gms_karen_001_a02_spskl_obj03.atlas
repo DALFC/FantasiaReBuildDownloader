@@ -1,0 +1,13 @@
+
+gms_karen_001_a02_spskl_obj03.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wepon_eff
+  rotate: false
+  xy: 2, 2
+  size: 1032, 307
+  orig: 1560, 1560
+  offset: 264, 626
+  index: -1

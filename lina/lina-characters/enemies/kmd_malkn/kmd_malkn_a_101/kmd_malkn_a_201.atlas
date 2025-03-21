@@ -1,0 +1,62 @@
+
+kmd_malkn_a_201.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: false
+  xy: 152, 76
+  size: 78, 57
+  orig: 1540, 1540
+  offset: 746, 547
+  index: -1
+arm_R
+  rotate: false
+  xy: 152, 32
+  size: 59, 42
+  orig: 1540, 1540
+  offset: 594, 596
+  index: -1
+body
+  rotate: false
+  xy: 2, 135
+  size: 350, 216
+  orig: 1540, 1540
+  offset: 605, 538
+  index: -1
+hand_L
+  rotate: false
+  xy: 640, 44
+  size: 266, 130
+  orig: 1540, 1540
+  offset: 629, 450
+  index: -1
+hand_R
+  rotate: false
+  xy: 2, 14
+  size: 148, 119
+  orig: 1540, 1540
+  offset: 470, 528
+  index: -1
+tail
+  rotate: true
+  xy: 640, 176
+  size: 175, 264
+  orig: 1540, 1540
+  offset: 662, 354
+  index: -1
+wing_L
+  rotate: false
+  xy: 354, 170
+  size: 284, 181
+  orig: 1540, 1540
+  offset: 825, 620
+  index: -1
+wing_R
+  rotate: false
+  xy: 354, 2
+  size: 180, 166
+  orig: 1540, 1540
+  offset: 663, 699
+  index: -1

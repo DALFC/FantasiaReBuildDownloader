@@ -1,0 +1,97 @@
+
+fmp_p1211_b_101.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_LDown
+  rotate: false
+  xy: 644, 12
+  size: 65, 121
+  orig: 1540, 1540
+  offset: 820, 489
+  index: -1
+arm_LUp
+  rotate: true
+  xy: 207, 24
+  size: 72, 147
+  orig: 1540, 1540
+  offset: 795, 566
+  index: -1
+arm_RDown
+  rotate: false
+  xy: 574, 2
+  size: 68, 131
+  orig: 1540, 1540
+  offset: 652, 493
+  index: -1
+arm_RUp
+  rotate: true
+  xy: 711, 10
+  size: 64, 112
+  orig: 1540, 1540
+  offset: 676, 597
+  index: -1
+body
+  rotate: true
+  xy: 2, 98
+  size: 151, 280
+  orig: 1540, 1540
+  offset: 691, 483
+  index: -1
+hand_L
+  rotate: false
+  xy: 887, 173
+  size: 70, 76
+  orig: 1540, 1540
+  offset: 834, 435
+  index: -1
+hand_R
+  rotate: false
+  xy: 961, 178
+  size: 58, 71
+  orig: 1540, 1540
+  offset: 636, 439
+  index: -1
+head
+  rotate: false
+  xy: 718, 76
+  size: 167, 173
+  orig: 1540, 1540
+  offset: 676, 709
+  index: -1
+leg_LDown
+  rotate: true
+  xy: 284, 108
+  size: 141, 231
+  orig: 1540, 1540
+  offset: 787, 174
+  index: -1
+leg_LUp
+  rotate: true
+  xy: 517, 135
+  size: 114, 199
+  orig: 1540, 1540
+  offset: 749, 361
+  index: -1
+leg_RDown
+  rotate: true
+  xy: 356, 6
+  size: 100, 216
+  orig: 1540, 1540
+  offset: 669, 187
+  index: -1
+leg_RUp
+  rotate: true
+  xy: 2, 20
+  size: 76, 203
+  orig: 1540, 1540
+  offset: 680, 359
+  index: -1
+waist_armor
+  rotate: false
+  xy: 825, 24
+  size: 134, 50
+  orig: 1540, 1540
+  offset: 688, 532
+  index: -1

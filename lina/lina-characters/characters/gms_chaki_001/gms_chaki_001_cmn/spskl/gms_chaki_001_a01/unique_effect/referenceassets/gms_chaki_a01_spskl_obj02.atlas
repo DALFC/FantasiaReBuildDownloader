@@ -1,0 +1,27 @@
+
+gms_chaki_a01_spskl_obj02.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boko_1
+  rotate: false
+  xy: 2, 6
+  size: 104, 124
+  orig: 512, 512
+  offset: 200, 196
+  index: -1
+boko_2
+  rotate: false
+  xy: 108, 6
+  size: 104, 124
+  orig: 512, 512
+  offset: 200, 196
+  index: -1
+boko_eff
+  rotate: false
+  xy: 214, 2
+  size: 60, 128
+  orig: 512, 512
+  offset: 152, 192
+  index: -1

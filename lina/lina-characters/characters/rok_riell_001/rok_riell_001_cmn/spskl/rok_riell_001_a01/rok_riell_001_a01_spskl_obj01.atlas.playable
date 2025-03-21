@@ -1,0 +1,48 @@
+
+rok_riell_001_a01_spskl_obj01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+weapon_brk1
+  rotate: true
+  xy: 404, 12
+  size: 260, 96
+  orig: 1560, 1560
+  offset: 421, 488
+  index: -1
+weapon_brk2
+  rotate: false
+  xy: 600, 2
+  size: 112, 45
+  orig: 1560, 1560
+  offset: 569, 539
+  index: -1
+weapon_brk3
+  rotate: true
+  xy: 694, 84
+  size: 188, 78
+  orig: 1560, 1560
+  offset: 421, 488
+  index: -1
+weapon_brk4
+  rotate: true
+  xy: 502, 12
+  size: 260, 96
+  orig: 1560, 1560
+  offset: 421, 488
+  index: -1
+weapon_brk5
+  rotate: true
+  xy: 600, 49
+  size: 223, 92
+  orig: 1560, 1560
+  offset: 247, 490
+  index: -1
+weapon_brk6
+  rotate: false
+  xy: 2, 34
+  size: 400, 238
+  orig: 1560, 1560
+  offset: 596, 373
+  index: -1

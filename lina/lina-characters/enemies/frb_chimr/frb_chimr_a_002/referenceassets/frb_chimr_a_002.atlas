@@ -1,0 +1,181 @@
+
+frb_chimr_a_002.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_body
+  rotate: 270
+  xy: 1393, 1176
+  size: 774, 413
+  orig: 1848, 1848
+  offset: 495, 443
+  index: -1
+F_head_1
+  rotate: true
+  xy: 1545, 50
+  size: 463, 430
+  orig: 1848, 1848
+  offset: 157, 576
+  index: -1
+F_head_2
+  rotate: false
+  xy: 1322, 1868
+  size: 196, 179
+  orig: 1848, 1848
+  offset: 264, 498
+  index: -1
+F_horn_L
+  rotate: false
+  xy: 1788, 1737
+  size: 201, 309
+  orig: 1848, 1848
+  offset: 400, 744
+  index: -1
+F_horn_R_xmas
+  rotate: false
+  xy: 2, 1824
+  size: 79, 222
+  orig: 1848, 1848
+  offset: 317, 823
+  index: -1
+F_leg01_LDown
+  rotate: false
+  xy: 1551, 668
+  size: 414, 529
+  orig: 1848, 1848
+  offset: 546, 112
+  index: -1
+F_leg01_LUp
+  rotate: 270
+  xy: 1806, 1424
+  size: 312, 320
+  orig: 1848, 1848
+  offset: 560, 404
+  index: -1
+F_leg01_RDown
+  rotate: true
+  xy: 1804, 3
+  size: 425, 333
+  orig: 1848, 1848
+  offset: 340, 229
+  index: -1
+F_leg01_RUp
+  rotate: true
+  xy: 2, 23
+  size: 233, 218
+  orig: 1848, 1848
+  offset: 465, 445
+  index: -1
+F_leg02_LDown
+  rotate: true
+  xy: 259, 3
+  size: 295, 424
+  orig: 1848, 1848
+  offset: 1097, 164
+  index: -1
+F_leg02_LUp
+  rotate: 270
+  xy: 1771, 404
+  size: 319, 314
+  orig: 1848, 1848
+  offset: 1035, 389
+  index: -1
+F_leg02_RDown
+  rotate: true
+  xy: 1910, 895
+  size: 358, 275
+  orig: 1848, 1848
+  offset: 855, 250
+  index: -1
+F_leg02_RUp
+  rotate: true
+  xy: 998, 1230
+  size: 202, 248
+  orig: 1848, 1848
+  offset: 927, 416
+  index: -1
+hair_L
+  rotate: false
+  xy: 1752, 1019
+  size: 228, 509
+  orig: 1848, 1848
+  offset: 323, 235
+  index: -1
+hair_R
+  rotate: false
+  xy: 1973, 614
+  size: 166, 385
+  orig: 1848, 1848
+  offset: 289, 320
+  index: -1
+mane_01
+  rotate: false
+  xy: 2, 1069
+  size: 708, 978
+  orig: 1848, 1848
+  offset: 273, 254
+  index: -1
+mane_02
+  rotate: false
+  xy: 597, 559
+  size: 690, 889
+  orig: 1848, 1848
+  offset: 274, 278
+  index: -1
+mane_03
+  rotate: false
+  xy: 2, 159
+  size: 690, 922
+  orig: 1848, 1848
+  offset: 274, 256
+  index: -1
+snake_body_01
+  rotate: true
+  xy: 1335, 38
+  size: 718, 450
+  orig: 1848, 1848
+  offset: 861, 692
+  index: -1
+snake_body_02
+  rotate: 180
+  xy: 645, 1389
+  size: 463, 405
+  orig: 1848, 1848
+  offset: 1070, 678
+  index: -1
+snake_chin_01
+  rotate: false
+  xy: 2, 1032
+  size: 151, 137
+  orig: 1848, 1848
+  offset: 919, 644
+  index: -1
+snake_chin_02
+  rotate: false
+  xy: 779, 1660
+  size: 150, 130
+  orig: 1848, 1848
+  offset: 917, 650
+  index: -1
+wing_L_01
+  rotate: 270
+  xy: 1095, 164
+  size: 1213, 508
+  orig: 1848, 1848
+  offset: 581, 964
+  index: -1
+wing_L_02
+  rotate: 270
+  xy: 700, 65
+  size: 575, 540
+  orig: 1848, 1848
+  offset: 645, 785
+  index: -1
+wing_R_01
+  rotate: 180
+  xy: 455, 1412
+  size: 1054, 635
+  orig: 1848, 1848
+  offset: 328, 710
+  index: -1

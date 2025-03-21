@@ -1,0 +1,125 @@
+
+frb_knhtd_b_201.png
+size: 4096,4096
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_L
+  rotate: true
+  xy: 2993, 1313
+  size: 856, 768
+  orig: 3464, 2774
+  offset: 887, 192
+  index: -1
+arm_LUp
+  rotate: false
+  xy: 3027, 456
+  size: 505, 572
+  orig: 3464, 2774
+  offset: 1104, 764
+  index: -1
+arm_R
+  rotate: 180
+  xy: 1748, 18
+  size: 707, 588
+  orig: 3464, 2774
+  offset: 475, 450
+  index: -1
+arm_RUp
+  rotate: false
+  xy: 3349, 3379
+  size: 435, 494
+  orig: 3464, 2774
+  offset: 817, 889
+  index: -1
+body
+  rotate: false
+  xy: 2, 2082
+  size: 2978, 1792
+  orig: 3464, 2774
+  offset: 436, 605
+  index: -1
+head_Down
+  rotate: false
+  xy: 2, 3261
+  size: 382, 457
+  orig: 3464, 2774
+  offset: 502, 985
+  index: -1
+head_Down2
+  rotate: false
+  xy: 2, 3677
+  size: 127, 196
+  orig: 3464, 2774
+  offset: 569, 1000
+  index: -1
+head_Up
+  rotate: 180
+  xy: 2989, 2451
+  size: 573, 1078
+  orig: 3464, 2774
+  offset: 172, 959
+  index: -1
+leg_L
+  rotate: 180
+  xy: 2, 4
+  size: 809, 668
+  orig: 3464, 2774
+  offset: 1767, 282
+  index: -1
+leg_LUp
+  rotate: 180
+  xy: 2759, 1725
+  size: 746, 812
+  orig: 3464, 2774
+  offset: 1639, 747
+  index: -1
+leg_R
+  rotate: true
+  xy: 445, 1221
+  size: 572, 563
+  orig: 3464, 2774
+  offset: 1448, 484
+  index: -1
+leg_RUp
+  rotate: 180
+  xy: 1896, 476
+  size: 686, 741
+  orig: 3464, 2774
+  offset: 1293, 896
+  index: -1
+mouse_Back
+  rotate: false
+  xy: 1174, 2184
+  size: 245, 376
+  orig: 3464, 2774
+  offset: 448, 854
+  index: -1
+wing_L
+  rotate: true
+  xy: 2, 1223
+  size: 1335, 1299
+  orig: 3464, 2774
+  offset: 1102, 1208
+  index: -1
+wing_LFront
+  rotate: false
+  xy: 10, 423
+  size: 2354, 2604
+  orig: 3464, 2774
+  offset: 834, 170
+  index: -1
+wing_R
+  rotate: 270
+  xy: 2232, 2809
+  size: 1065, 877
+  orig: 3464, 2774
+  offset: 88, 1449
+  index: -1
+wing_RFront
+  rotate: 270
+  xy: 2155, 545
+  size: 1426, 871
+  orig: 3464, 2774
+  offset: 179, 1357
+  index: -1

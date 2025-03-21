@@ -1,0 +1,125 @@
+
+rok_swolf_c_101.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_body
+  rotate: 180
+  xy: 2, 122
+  size: 619, 338
+  orig: 1540, 1540
+  offset: 429, 337
+  index: -1
+F_foot01_L
+  rotate: false
+  xy: 188, 6
+  size: 159, 115
+  orig: 1540, 1540
+  offset: 561, 122
+  index: -1
+F_foot01_R
+  rotate: false
+  xy: 942, 5
+  size: 149, 91
+  orig: 1540, 1540
+  offset: 451, 197
+  index: -1
+F_foot02_L
+  rotate: false
+  xy: 463, 3
+  size: 155, 120
+  orig: 1540, 1540
+  offset: 857, 153
+  index: -1
+F_foot02_R
+  rotate: true
+  xy: 960, 828
+  size: 157, 82
+  orig: 1540, 1540
+  offset: 719, 200
+  index: -1
+F_head_1
+  rotate: false
+  xy: 2, 447
+  size: 572, 540
+  orig: 1540, 1540
+  offset: 232, 307
+  index: -1
+F_head_2
+  rotate: true
+  xy: 606, 88
+  size: 328, 180
+  orig: 1540, 1540
+  offset: 263, 425
+  index: -1
+F_leg01_LDown
+  rotate: false
+  xy: 951, 267
+  size: 155, 170
+  orig: 1540, 1540
+  offset: 643, 179
+  index: -1
+F_leg01_LUp
+  rotate: false
+  xy: 790, 779
+  size: 168, 191
+  orig: 1540, 1540
+  offset: 609, 301
+  index: -1
+F_leg01_RDown
+  rotate: false
+  xy: 2, 840
+  size: 149, 145
+  orig: 1540, 1540
+  offset: 542, 239
+  index: -1
+F_leg01_RUp
+  rotate: false
+  xy: 942, 98
+  size: 162, 167
+  orig: 1540, 1540
+  offset: 508, 355
+  index: -1
+F_leg02_LDown
+  rotate: false
+  xy: 787, 53
+  size: 153, 183
+  orig: 1540, 1540
+  offset: 934, 217
+  index: -1
+F_leg02_LUp
+  rotate: true
+  xy: 572, 779
+  size: 206, 216
+  orig: 1540, 1540
+  offset: 841, 348
+  index: -1
+F_leg02_RDown
+  rotate: false
+  xy: 2, 23
+  size: 184, 170
+  orig: 1540, 1540
+  offset: 783, 242
+  index: -1
+F_leg02_RUp
+  rotate: false
+  xy: 780, 594
+  size: 178, 183
+  orig: 1540, 1540
+  offset: 762, 361
+  index: -1
+F_tail_Down
+  rotate: true
+  xy: 780, 267
+  size: 261, 169
+  orig: 1540, 1540
+  offset: 1138, 354
+  index: -1
+F_tail_Up
+  rotate: true
+  xy: 574, 417
+  size: 353, 204
+  orig: 1540, 1540
+  offset: 924, 401
+  index: -1

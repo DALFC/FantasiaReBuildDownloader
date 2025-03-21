@@ -1,0 +1,55 @@
+
+dal_tohka_002_a01_spskl_obj04.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+sori_1
+  rotate: false
+  xy: 2, 261
+  size: 849, 586
+  orig: 1560, 1560
+  offset: 622, 226
+  index: -1
+sori_1_L_asi
+  rotate: false
+  xy: 920, 92
+  size: 662, 106
+  orig: 1560, 1560
+  offset: 874, 155
+  index: -1
+sori_1_L_asi_mae
+  rotate: true
+  xy: 1523, 200
+  size: 286, 152
+  orig: 1560, 1560
+  offset: 621, 174
+  index: -1
+sori_2
+  rotate: false
+  xy: 853, 200
+  size: 668, 647
+  orig: 1560, 1560
+  offset: 736, 298
+  index: -1
+sori_2_R_asi
+  rotate: false
+  xy: 2, 26
+  size: 916, 172
+  orig: 1560, 1560
+  offset: 448, 178
+  index: -1
+sori_3
+  rotate: true
+  xy: 920, 2
+  size: 88, 207
+  orig: 1560, 1560
+  offset: 1201, 882
+  index: -1
+sori_3_start
+  rotate: false
+  xy: 1523, 488
+  size: 137, 201
+  orig: 1560, 1560
+  offset: 1201, 882
+  index: -1

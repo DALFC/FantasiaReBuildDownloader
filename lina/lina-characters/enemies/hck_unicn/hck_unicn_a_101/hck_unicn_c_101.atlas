@@ -1,0 +1,272 @@
+
+hck_unicn_c_101.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_body
+  rotate: false
+  xy: 2, 276
+  size: 585, 324
+  orig: 1540, 1540
+  offset: 453, 417
+  index: -1
+F_dogfoot01_L
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_dogleg01_LDown
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_dogleg01_LUp
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_dogleg01_RDown
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_dogleg01_RUp
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_doglfoot01_R
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_hair
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_riding_body
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_toparm_LDown
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_toparm_LUp
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_toparm_RDown
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_toparm_RUp
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_topbody
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_tophead
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_LDown
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_LUp
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_RDown
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_RUp
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail01_Down
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+tail01_Up
+  rotate: false
+  xy: 1996, 599
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_face_attack
+  rotate: false
+  xy: 589, 241
+  size: 521, 359
+  orig: 1540, 1540
+  offset: 75, 508
+  index: -1
+F_face_damage
+  rotate: false
+  xy: 1112, 241
+  size: 521, 359
+  orig: 1540, 1540
+  offset: 75, 508
+  index: -1
+F_face_normal
+  rotate: true
+  xy: 1635, 79
+  size: 521, 359
+  orig: 1540, 1540
+  offset: 75, 508
+  index: -1
+F_foot01_L
+  rotate: false
+  xy: 1470, 170
+  size: 76, 69
+  orig: 1540, 1540
+  offset: 587, 152
+  index: -1
+F_foot01_R
+  rotate: false
+  xy: 1548, 178
+  size: 73, 61
+  orig: 1540, 1540
+  offset: 507, 204
+  index: -1
+F_foot02_L
+  rotate: false
+  xy: 1470, 120
+  size: 66, 48
+  orig: 1540, 1540
+  offset: 930, 180
+  index: -1
+F_foot02_R
+  rotate: false
+  xy: 1548, 124
+  size: 63, 52
+  orig: 1540, 1540
+  offset: 810, 207
+  index: -1
+F_leg01_LDown
+  rotate: true
+  xy: 1470, 5
+  size: 72, 238
+  orig: 1540, 1540
+  offset: 601, 171
+  index: -1
+F_leg01_LUp
+  rotate: false
+  xy: 923, 19
+  size: 145, 220
+  orig: 1540, 1540
+  offset: 585, 353
+  index: -1
+F_leg01_RDown
+  rotate: true
+  xy: 1710, 7
+  size: 70, 220
+  orig: 1540, 1540
+  offset: 522, 216
+  index: -1
+F_leg01_RUp
+  rotate: false
+  xy: 1341, 24
+  size: 127, 215
+  orig: 1540, 1540
+  offset: 484, 375
+  index: -1
+F_leg02_LDown
+  rotate: false
+  xy: 1208, 12
+  size: 131, 227
+  orig: 1540, 1540
+  offset: 944, 192
+  index: -1
+F_leg02_LUp
+  rotate: false
+  xy: 300, 4
+  size: 210, 270
+  orig: 1540, 1540
+  offset: 871, 354
+  index: -1
+F_leg02_RDown
+  rotate: false
+  xy: 1070, 14
+  size: 136, 225
+  orig: 1540, 1540
+  offset: 824, 219
+  index: -1
+F_leg02_RUp
+  rotate: false
+  xy: 512, 35
+  size: 198, 204
+  orig: 1540, 1540
+  offset: 767, 379
+  index: -1
+tail02_Down
+  rotate: false
+  xy: 712, 56
+  size: 209, 183
+  orig: 1540, 1540
+  offset: 1151, 354
+  index: -1
+tail02_Up
+  rotate: false
+  xy: 2, 2
+  size: 296, 272
+  orig: 1540, 1540
+  offset: 936, 431
+  index: -1

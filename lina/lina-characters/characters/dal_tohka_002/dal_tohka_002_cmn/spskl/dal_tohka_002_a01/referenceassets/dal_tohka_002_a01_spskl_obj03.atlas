@@ -1,0 +1,41 @@
+
+dal_tohka_002_a01_spskl_obj03.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hapa
+  rotate: false
+  xy: 392, 128
+  size: 184, 101
+  orig: 600, 600
+  offset: 208, 344
+  index: -1
+itigo_1
+  rotate: false
+  xy: 235, 91
+  size: 155, 138
+  orig: 600, 600
+  offset: 3, 228
+  index: -1
+kurim_1
+  rotate: false
+  xy: 392, 2
+  size: 129, 124
+  orig: 600, 600
+  offset: 59, 342
+  index: -1
+soto_kuri
+  rotate: false
+  xy: 2, 231
+  size: 586, 596
+  orig: 600, 600
+  offset: 6, 0
+  index: -1
+tyoko
+  rotate: false
+  xy: 2, 126
+  size: 231, 103
+  orig: 600, 600
+  offset: 184, 249
+  index: -1

@@ -1,0 +1,137 @@
+
+dal_ysino_001_spskl_obj01.png
+size: 2048,1952
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-耳_奥＿修正
+  rotate: false
+  xy: 881, 3
+  size: 689, 205
+  orig: 3000, 3000
+  offset: 850, 1988
+  index: -1
+-腰
+  rotate: false
+  xy: 2, 295
+  size: 843, 818
+  orig: 3000, 3000
+  offset: 1645, 799
+  index: -1
+前歯_奥
+  rotate: false
+  xy: 847, 802
+  size: 296, 301
+  orig: 3000, 3000
+  offset: 391, 1653
+  index: -1
+後足_近
+  rotate: false
+  xy: 923, 210
+  size: 1046, 1463
+  orig: 3000, 3000
+  offset: 1666, 39
+  index: -1
+耳_前＿修正
+  rotate: false
+  xy: 2, 33
+  size: 877, 260
+  orig: 3000, 3000
+  offset: 733, 2026
+  index: -1
+腹
+  rotate: false
+  xy: 2, 1049
+  size: 1604, 901
+  orig: 3000, 3000
+  offset: 547, 745
+  index: -1
+頭部（上顎）
+  rotate: true
+  xy: 1666, 45
+  size: 688, 381
+  orig: 3000, 3000
+  offset: 290, 1771
+  index: -1
+首裏側（操作パネルブロック）
+  rotate: false
+  xy: 1439, 1683
+  size: 424, 265
+  orig: 3000, 3000
+  offset: 700, 1714
+  index: -1
+
+dal_ysino_001_spskl_obj012.png
+size: 1928,2040
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-前足_奥
+  rotate: false
+  xy: 1445, 116
+  size: 419, 810
+  orig: 3000, 3000
+  offset: 636, 556
+  index: -1
+-前足_近
+  rotate: false
+  xy: 915, 317
+  size: 630, 882
+  orig: 3000, 3000
+  offset: 631, 464
+  index: -1
+上半身ケープ
+  rotate: false
+  xy: 2, 1454
+  size: 1546, 585
+  orig: 3000, 3000
+  offset: 659, 1174
+  index: -1
+下顎・襟
+  rotate: 270
+  xy: 1414, 918
+  size: 1120, 511
+  orig: 3000, 3000
+  offset: 382, 1416
+  index: -1
+尻尾
+  rotate: 180
+  xy: 299, 29
+  size: 643, 448
+  orig: 3000, 3000
+  offset: 2027, 1022
+  index: -1
+後足_奥
+  rotate: true
+  xy: 2, 749
+  size: 857, 1273
+  orig: 3000, 3000
+  offset: 1551, 221
+  index: -1
+胸パーツ
+  rotate: false
+  xy: 2, 351
+  size: 838, 566
+  orig: 3000, 3000
+  offset: 534, 1192
+  index: -1
+頭裏地
+  rotate: false
+  xy: 1017, 3
+  size: 427, 313
+  orig: 3000, 3000
+  offset: 539, 1807
+  index: -1
+
+dal_ysino_001_spskl_obj013.png
+size: 456,464
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+-前足ケープ
+  rotate: false
+  xy: 2, 2
+  size: 450, 457
+  orig: 3000, 3000
+  offset: 646, 940
+  index: -1

@@ -1,0 +1,48 @@
+
+frb_gim02_a_102.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 232, 365
+  size: 324, 377
+  orig: 1540, 1540
+  offset: 607, 530
+  index: -1
+body_side_L
+  rotate: false
+  xy: 758, 364
+  size: 216, 378
+  orig: 1540, 1540
+  offset: 789, 546
+  index: -1
+body_side_R
+  rotate: false
+  xy: 232, 2
+  size: 209, 361
+  orig: 1540, 1540
+  offset: 542, 560
+  index: -1
+eye
+  rotate: false
+  xy: 758, 159
+  size: 203, 203
+  orig: 1540, 1540
+  offset: 639, 592
+  index: -1
+leg_L
+  rotate: false
+  xy: 2, 152
+  size: 228, 590
+  orig: 1540, 1540
+  offset: 903, 319
+  index: -1
+leg_R
+  rotate: false
+  xy: 558, 189
+  size: 198, 553
+  orig: 1540, 1540
+  offset: 458, 353
+  index: -1

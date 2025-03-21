@@ -1,0 +1,76 @@
+
+sae_megmi_002_a01_spskl_obj01.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pure_a2
+  rotate: false
+  xy: 386, 50
+  size: 418, 434
+  orig: 600, 600
+  offset: 91, 105
+  index: -1
+pure_a3
+  rotate: false
+  xy: 806, 50
+  size: 418, 434
+  orig: 600, 600
+  offset: 91, 105
+  index: -1
+pure_b3
+  rotate: false
+  xy: 2, 2
+  size: 382, 482
+  orig: 600, 600
+  offset: 113, 68
+  index: -1
+yousei_body
+  rotate: true
+  xy: 1226, 172
+  size: 312, 309
+  orig: 600, 600
+  offset: 138, 58
+  index: -1
+yousei_hand_L
+  rotate: false
+  xy: 1894, 88
+  size: 152, 163
+  orig: 600, 600
+  offset: 387, 132
+  index: -1
+yousei_hand_R
+  rotate: false
+  xy: 1537, 26
+  size: 152, 163
+  orig: 600, 600
+  offset: 52, 130
+  index: -1
+yousei_hat
+  rotate: true
+  xy: 1766, 224
+  size: 260, 210
+  orig: 600, 600
+  offset: 245, 370
+  index: -1
+yousei_head
+  rotate: true
+  xy: 1537, 191
+  size: 293, 227
+  orig: 600, 600
+  offset: 143, 272
+  index: -1
+yousei_muffler1
+  rotate: false
+  xy: 1948, 300
+  size: 87, 186
+  orig: 600, 600
+  offset: 311, 160
+  index: -1
+yousei_muffler2
+  rotate: false
+  xy: 1709, 58
+  size: 170, 184
+  orig: 600, 600
+  offset: 344, 160
+  index: -1

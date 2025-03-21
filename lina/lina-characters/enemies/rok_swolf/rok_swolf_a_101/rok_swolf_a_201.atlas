@@ -1,0 +1,125 @@
+
+rok_swolf_a_201.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_body
+  rotate: 180
+  xy: 521, 167
+  size: 646, 361
+  orig: 1540, 1540
+  offset: 416, 321
+  index: -1
+F_foot01_L
+  rotate: false
+  xy: 2, 410
+  size: 159, 116
+  orig: 1540, 1540
+  offset: 561, 121
+  index: -1
+F_foot01_R
+  rotate: false
+  xy: 1506, 21
+  size: 149, 91
+  orig: 1540, 1540
+  offset: 451, 197
+  index: -1
+F_foot02_L
+  rotate: true
+  xy: 1918, 371
+  size: 155, 119
+  orig: 1540, 1540
+  offset: 857, 154
+  index: -1
+F_foot02_R
+  rotate: false
+  xy: 1657, 30
+  size: 157, 82
+  orig: 1540, 1540
+  offset: 719, 200
+  index: -1
+F_head_1
+  rotate: false
+  xy: 2, 46
+  size: 547, 481
+  orig: 1540, 1540
+  offset: 229, 325
+  index: -1
+F_head_2
+  rotate: true
+  xy: 1775, 214
+  size: 314, 146
+  orig: 1540, 1540
+  offset: 264, 444
+  index: -1
+F_leg01_LDown
+  rotate: false
+  xy: 1324, 39
+  size: 180, 173
+  orig: 1540, 1540
+  offset: 643, 179
+  index: -1
+F_leg01_LUp
+  rotate: false
+  xy: 549, 49
+  size: 168, 191
+  orig: 1540, 1540
+  offset: 609, 301
+  index: -1
+F_leg01_RDown
+  rotate: false
+  xy: 719, 25
+  size: 149, 145
+  orig: 1540, 1540
+  offset: 542, 239
+  index: -1
+F_leg01_RUp
+  rotate: true
+  xy: 975, 3
+  size: 162, 167
+  orig: 1540, 1540
+  offset: 508, 355
+  index: -1
+F_leg02_LDown
+  rotate: false
+  xy: 1567, 114
+  size: 175, 204
+  orig: 1540, 1540
+  offset: 934, 217
+  index: -1
+F_leg02_LUp
+  rotate: false
+  xy: 1567, 320
+  size: 206, 206
+  orig: 1540, 1540
+  offset: 841, 348
+  index: -1
+F_leg02_RDown
+  rotate: false
+  xy: 1862, 52
+  size: 184, 170
+  orig: 1540, 1540
+  offset: 783, 242
+  index: -1
+F_leg02_RUp
+  rotate: false
+  xy: 1144, 56
+  size: 178, 183
+  orig: 1540, 1540
+  offset: 762, 361
+  index: -1
+F_tail_Down
+  rotate: true
+  xy: 1168, 241
+  size: 285, 212
+  orig: 1540, 1540
+  offset: 1122, 338
+  index: -1
+F_tail_Up
+  rotate: true
+  xy: 1382, 214
+  size: 312, 183
+  orig: 1540, 1540
+  offset: 937, 430
+  index: -1

@@ -1,0 +1,230 @@
+
+sly_gobln_c_201.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 614, 519
+  size: 96, 269
+  orig: 1540, 1540
+  offset: 826, 432
+  index: -1
+F_arm_LUp
+  rotate: true
+  xy: 314, 726
+  size: 244, 229
+  orig: 1540, 1540
+  offset: 667, 612
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 213, 30
+  size: 190, 202
+  orig: 1540, 1540
+  offset: 428, 431
+  index: -1
+F_arm_RUp
+  rotate: false
+  xy: 493, 468
+  size: 119, 255
+  orig: 1540, 1540
+  offset: 468, 582
+  index: -1
+F_back
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_backmove
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_face_attack
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_face_damage
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_hair
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_neck
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_tail_Down
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_tail_Up
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_topface_attack
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_topface_damage
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_topface_nomal
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_topneck
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_LDown
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_LUp
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_RDown
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_wing_RUp
+  rotate: false
+  xy: 314, 984
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+F_body
+  rotate: false
+  xy: 2, 222
+  size: 340, 355
+  orig: 1540, 1540
+  offset: 519, 484
+  index: -1
+F_body_fund
+  rotate: false
+  xy: 545, 790
+  size: 149, 195
+  orig: 1540, 1540
+  offset: 658, 351
+  index: -1
+F_face_normal
+  rotate: false
+  xy: 2, 579
+  size: 310, 406
+  orig: 1540, 1540
+  offset: 344, 569
+  index: -1
+F_foot_L
+  rotate: true
+  xy: 712, 647
+  size: 159, 134
+  orig: 1540, 1540
+  offset: 810, 140
+  index: -1
+F_foot_R
+  rotate: true
+  xy: 696, 808
+  size: 177, 126
+  orig: 1540, 1540
+  offset: 538, 175
+  index: -1
+F_hand_L
+  rotate: false
+  xy: 667, 344
+  size: 146, 173
+  orig: 1540, 1540
+  offset: 789, 287
+  index: -1
+F_hand_R
+  rotate: false
+  xy: 712, 200
+  size: 140, 142
+  orig: 1540, 1540
+  offset: 333, 324
+  index: -1
+F_leg_LDown
+  rotate: false
+  xy: 417, 15
+  size: 174, 205
+  orig: 1540, 1540
+  offset: 784, 227
+  index: -1
+F_leg_LUp
+  rotate: false
+  xy: 593, 2
+  size: 117, 218
+  orig: 1540, 1540
+  offset: 771, 377
+  index: -1
+F_leg_RDown
+  rotate: false
+  xy: 493, 222
+  size: 172, 188
+  orig: 1540, 1540
+  offset: 535, 252
+  index: -1
+F_leg_RUp
+  rotate: false
+  xy: 2, 26
+  size: 209, 194
+  orig: 1540, 1540
+  offset: 508, 372
+  index: -1
+weapon
+  rotate: true
+  xy: 344, 222
+  size: 501, 147
+  orig: 1540, 1540
+  offset: 3, 313
+  index: -1

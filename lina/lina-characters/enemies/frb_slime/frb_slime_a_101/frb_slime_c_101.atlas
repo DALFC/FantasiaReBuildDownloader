@@ -1,0 +1,27 @@
+
+frb_slime_c_101.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L
+  rotate: false
+  xy: 2, 243
+  size: 104, 104
+  orig: 1540, 1540
+  offset: 982, 462
+  index: -1
+R
+  rotate: false
+  xy: 2, 522
+  size: 69, 62
+  orig: 1540, 1540
+  offset: 444, 330
+  index: -1
+body
+  rotate: false
+  xy: 2, 3
+  size: 726, 582
+  orig: 1540, 1540
+  offset: 424, 95
+  index: -1

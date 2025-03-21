@@ -1,0 +1,370 @@
+
+fmp_kurzw_001_c01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_arm_LDown
+  rotate: true
+  xy: 793, 935
+  size: 67, 113
+  orig: 1560, 1560
+  offset: 838, 543
+  index: -1
+B_arm_LUp
+  rotate: true
+  xy: 2, 3
+  size: 65, 130
+  orig: 1560, 1560
+  offset: 859, 625
+  index: -1
+B_arm_RDown
+  rotate: false
+  xy: 875, 608
+  size: 64, 112
+  orig: 1560, 1560
+  offset: 1005, 547
+  index: -1
+B_arm_RUp
+  rotate: true
+  xy: 2, 70
+  size: 70, 128
+  orig: 1560, 1560
+  offset: 979, 631
+  index: -1
+B_body
+  rotate: false
+  xy: 606, 698
+  size: 186, 306
+  orig: 1560, 1560
+  offset: 851, 495
+  index: -1
+B_hairFront_L
+  rotate: false
+  xy: 2, 142
+  size: 112, 211
+  orig: 1560, 1560
+  offset: 821, 785
+  index: -1
+B_hairRear1
+  rotate: true
+  xy: 461, 17
+  size: 103, 185
+  orig: 1560, 1560
+  offset: 868, 715
+  index: -1
+B_hairRear2
+  rotate: 270
+  xy: 146, 185
+  size: 174, 174
+  orig: 1560, 1560
+  offset: 936, 700
+  index: -1
+B_hairRear3
+  rotate: false
+  xy: 318, 197
+  size: 164, 104
+  orig: 1560, 1560
+  offset: 913, 777
+  index: -1
+B_hairfool
+  rotate: false
+  xy: 412, 856
+  size: 43, 45
+  orig: 1560, 1560
+  offset: 903, 978
+  index: -1
+B_hand_L
+  rotate: false
+  xy: 935, 418
+  size: 60, 71
+  orig: 1560, 1560
+  offset: 816, 491
+  index: -1
+B_hand_L_gun_sasa
+  rotate: false
+  xy: 305, 945
+  size: 58, 57
+  orig: 1560, 1560
+  offset: 817, 504
+  index: -1
+B_hand_R
+  rotate: false
+  xy: 929, 300
+  size: 64, 73
+  orig: 1560, 1560
+  offset: 1028, 494
+  index: -1
+B_head
+  rotate: true
+  xy: 120, 490
+  size: 211, 245
+  orig: 1560, 1560
+  offset: 866, 760
+  index: -1
+B_leg_LDown
+  rotate: false
+  xy: 808, 135
+  size: 99, 199
+  orig: 1560, 1560
+  offset: 857, 183
+  index: -1
+B_leg_LUp
+  rotate: true
+  xy: 373, 903
+  size: 99, 223
+  orig: 1560, 1560
+  offset: 849, 341
+  index: -1
+B_leg_RDown
+  rotate: true
+  xy: 357, 74
+  size: 105, 201
+  orig: 1560, 1560
+  offset: 1022, 177
+  index: -1
+B_leg_RUp
+  rotate: true
+  xy: 644, 357
+  size: 132, 230
+  orig: 1560, 1560
+  offset: 945, 336
+  index: -1
+F_arm_LDown
+  rotate: false
+  xy: 875, 491
+  size: 64, 115
+  orig: 1560, 1560
+  offset: 1009, 542
+  index: -1
+F_arm_LUp
+  rotate: false
+  xy: 866, 5
+  size: 59, 127
+  orig: 1560, 1560
+  offset: 991, 627
+  index: -1
+F_arm_LZDown
+  rotate: false
+  xy: 134, 12
+  size: 50, 88
+  orig: 1560, 1560
+  offset: 1030, 637
+  index: -1
+F_arm_LZUp
+  rotate: false
+  xy: 875, 823
+  size: 74, 69
+  orig: 1560, 1560
+  offset: 1000, 689
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 312, 7
+  size: 69, 123
+  orig: 1560, 1560
+  offset: 837, 539
+  index: -1
+F_arm_RUp
+  rotate: true
+  xy: 186, 30
+  size: 72, 124
+  orig: 1560, 1560
+  offset: 866, 634
+  index: -1
+F_arm_RZDown
+  rotate: true
+  xy: 908, 894
+  size: 83, 61
+  orig: 1560, 1560
+  offset: 777, 674
+  index: -1
+F_arm_RZUp
+  rotate: true
+  xy: 875, 722
+  size: 99, 65
+  orig: 1560, 1560
+  offset: 826, 694
+  index: -1
+F_body
+  rotate: 270
+  xy: 367, 437
+  size: 195, 320
+  orig: 1560, 1560
+  offset: 852, 489
+  index: -1
+F_core
+  rotate: false
+  xy: 646, 11
+  size: 89, 95
+  orig: 1560, 1560
+  offset: 944, 1111
+  index: -1
+F_hairFront_C
+  rotate: false
+  xy: 875, 332
+  size: 61, 158
+  orig: 1560, 1560
+  offset: 901, 832
+  index: -1
+F_hairFront_L
+  rotate: 270
+  xy: 585, 575
+  size: 141, 200
+  orig: 1560, 1560
+  offset: 922, 787
+  index: -1
+F_hairFront_R
+  rotate: 180
+  xy: 893, 134
+  size: 60, 171
+  orig: 1560, 1560
+  offset: 851, 781
+  index: -1
+F_hairRear
+  rotate: false
+  xy: 218, 325
+  size: 205, 152
+  orig: 1560, 1560
+  offset: 887, 706
+  index: -1
+F_hairfool
+  rotate: false
+  xy: 107, 173
+  size: 30, 74
+  orig: 1560, 1560
+  offset: 887, 937
+  index: -1
+F_hand_L
+  rotate: false
+  xy: 927, 69
+  size: 64, 75
+  orig: 1560, 1560
+  offset: 1033, 495
+  index: -1
+F_hand_LZ
+  rotate: false
+  xy: 106, 305
+  size: 58, 47
+  orig: 1560, 1560
+  offset: 1021, 625
+  index: -1
+F_hand_L_gun_sasa
+  rotate: false
+  xy: 941, 491
+  size: 48, 75
+  orig: 1560, 1560
+  offset: 1034, 494
+  index: -1
+F_hand_R
+  rotate: true
+  xy: 927, 6
+  size: 61, 69
+  orig: 1560, 1560
+  offset: 814, 492
+  index: -1
+F_hand_RZ
+  rotate: true
+  xy: 941, 568
+  size: 57, 55
+  orig: 1560, 1560
+  offset: 764, 669
+  index: -1
+F_head
+  rotate: false
+  xy: 349, 605
+  size: 283, 294
+  orig: 1560, 1560
+  offset: 815, 718
+  index: -1
+F_leg_LDown
+  rotate: true
+  xy: 513, 109
+  size: 118, 223
+  orig: 1560, 1560
+  offset: 1017, 163
+  index: -1
+F_leg_LUp
+  rotate: true
+  xy: 2, 354
+  size: 134, 214
+  orig: 1560, 1560
+  offset: 949, 337
+  index: -1
+F_leg_LZDown
+  rotate: 270
+  xy: 484, 170
+  size: 117, 217
+  orig: 1560, 1560
+  offset: 1016, 168
+  index: -1
+F_leg_RDown
+  rotate: 270
+  xy: 152, 102
+  size: 103, 209
+  orig: 1560, 1560
+  offset: 859, 179
+  index: -1
+F_leg_RUp
+  rotate: true
+  xy: 413, 303
+  size: 89, 229
+  orig: 1560, 1560
+  offset: 853, 340
+  index: -1
+S_hairFront_C
+  rotate: true
+  xy: 463, 394
+  size: 63, 166
+  orig: 1560, 1560
+  offset: 851, 824
+  index: -1
+S_hairFront_L
+  rotate: true
+  xy: 640, 196
+  size: 159, 199
+  orig: 1560, 1560
+  offset: 867, 786
+  index: -1
+S_hairRear
+  rotate: 180
+  xy: 735, 28
+  size: 130, 162
+  orig: 1560, 1560
+  offset: 950, 699
+  index: -1
+S_hairfool
+  rotate: false
+  xy: 120, 931
+  size: 27, 71
+  orig: 1560, 1560
+  offset: 840, 943
+  index: -1
+S_head
+  rotate: true
+  xy: 120, 703
+  size: 299, 292
+  orig: 1560, 1560
+  offset: 801, 720
+  index: -1
+wapon_ps1
+  rotate: false
+  xy: 2, 495
+  size: 116, 507
+  orig: 1560, 1560
+  offset: 744, 79
+  index: -1
+wapon_ps2
+  rotate: false
+  xy: 688, 500
+  size: 94, 73
+  orig: 1560, 1560
+  offset: 792, 547
+  index: -1
+weapon
+  rotate: false
+  xy: 788, 491
+  size: 85, 442
+  orig: 1560, 1560
+  offset: 745, 199
+  index: -1

@@ -1,0 +1,125 @@
+
+rok_swolf_a_101.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_body
+  rotate: 180
+  xy: 2, 138
+  size: 619, 338
+  orig: 1540, 1540
+  offset: 429, 337
+  index: -1
+F_foot01_L
+  rotate: false
+  xy: 780, 700
+  size: 159, 116
+  orig: 1540, 1540
+  offset: 561, 121
+  index: -1
+F_foot01_R
+  rotate: false
+  xy: 367, 44
+  size: 149, 91
+  orig: 1540, 1540
+  offset: 451, 197
+  index: -1
+F_foot02_L
+  rotate: false
+  xy: 210, 16
+  size: 155, 119
+  orig: 1540, 1540
+  offset: 857, 154
+  index: -1
+F_foot02_R
+  rotate: false
+  xy: 518, 20
+  size: 157, 82
+  orig: 1540, 1540
+  offset: 719, 200
+  index: -1
+F_head_1
+  rotate: false
+  xy: 2, 463
+  size: 572, 540
+  orig: 1540, 1540
+  offset: 232, 307
+  index: -1
+F_head_2
+  rotate: true
+  xy: 606, 104
+  size: 328, 180
+  orig: 1540, 1540
+  offset: 263, 425
+  index: -1
+F_leg01_LDown
+  rotate: false
+  xy: 950, 477
+  size: 155, 170
+  orig: 1540, 1540
+  offset: 643, 179
+  index: -1
+F_leg01_LUp
+  rotate: false
+  xy: 780, 468
+  size: 168, 191
+  orig: 1540, 1540
+  offset: 609, 301
+  index: -1
+F_leg01_RDown
+  rotate: false
+  xy: 2, 856
+  size: 149, 145
+  orig: 1540, 1540
+  offset: 542, 239
+  index: -1
+F_leg01_RUp
+  rotate: false
+  xy: 950, 649
+  size: 162, 167
+  orig: 1540, 1540
+  offset: 508, 355
+  index: -1
+F_leg02_LDown
+  rotate: false
+  xy: 808, 818
+  size: 153, 183
+  orig: 1540, 1540
+  offset: 934, 217
+  index: -1
+F_leg02_LUp
+  rotate: false
+  xy: 2, 3
+  size: 206, 206
+  orig: 1540, 1540
+  offset: 841, 348
+  index: -1
+F_leg02_RDown
+  rotate: true
+  xy: 787, 68
+  size: 184, 170
+  orig: 1540, 1540
+  offset: 783, 242
+  index: -1
+F_leg02_RUp
+  rotate: false
+  xy: 780, 283
+  size: 178, 183
+  orig: 1540, 1540
+  offset: 762, 361
+  index: -1
+F_tail_Down
+  rotate: false
+  xy: 545, 832
+  size: 261, 169
+  orig: 1540, 1540
+  offset: 1138, 354
+  index: -1
+F_tail_Up
+  rotate: true
+  xy: 574, 433
+  size: 353, 204
+  orig: 1540, 1540
+  offset: 924, 401
+  index: -1

@@ -1,0 +1,118 @@
+
+dal_bandr_c_201.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 1059, 524
+  size: 135, 257
+  orig: 1540, 1540
+  offset: 841, 415
+  index: -1
+F_arm_LUp
+  rotate: false
+  xy: 620, 727
+  size: 267, 282
+  orig: 1540, 1540
+  offset: 683, 619
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 889, 783
+  size: 226, 209
+  orig: 1540, 1540
+  offset: 408, 411
+  index: -1
+F_arm_RUp
+  rotate: false
+  xy: 620, 412
+  size: 216, 313
+  orig: 1540, 1540
+  offset: 461, 557
+  index: -1
+F_back
+  rotate: false
+  xy: 2, 345
+  size: 616, 664
+  orig: 1540, 1540
+  offset: 462, 279
+  index: -1
+F_body
+  rotate: true
+  xy: 2, 12
+  size: 331, 455
+  orig: 1540, 1540
+  offset: 514, 481
+  index: -1
+F_foot_L
+  rotate: false
+  xy: 1187, 86
+  size: 109, 138
+  orig: 1540, 1540
+  offset: 840, 122
+  index: -1
+F_foot_R
+  rotate: true
+  xy: 1100, 783
+  size: 145, 118
+  orig: 1540, 1540
+  offset: 552, 187
+  index: -1
+F_hand_L
+  rotate: false
+  xy: 1098, 369
+  size: 131, 153
+  orig: 1540, 1540
+  offset: 796, 291
+  index: -1
+F_hand_R
+  rotate: false
+  xy: 1098, 226
+  size: 132, 141
+  orig: 1540, 1540
+  offset: 318, 308
+  index: -1
+F_head
+  rotate: false
+  xy: 459, 33
+  size: 259, 310
+  orig: 1540, 1540
+  offset: 385, 619
+  index: -1
+F_leg_LDown
+  rotate: false
+  xy: 923, 193
+  size: 173, 217
+  orig: 1540, 1540
+  offset: 776, 222
+  index: -1
+F_leg_LUp
+  rotate: true
+  xy: 720, 2
+  size: 136, 263
+  orig: 1540, 1540
+  offset: 755, 367
+  index: -1
+F_leg_RDown
+  rotate: true
+  xy: 985, 25
+  size: 166, 200
+  orig: 1540, 1540
+  offset: 538, 257
+  index: -1
+F_leg_RUp
+  rotate: false
+  xy: 838, 504
+  size: 219, 221
+  orig: 1540, 1540
+  offset: 525, 395
+  index: -1
+F_neck
+  rotate: true
+  xy: 720, 140
+  size: 270, 201
+  orig: 1540, 1540
+  offset: 448, 688
+  index: -1

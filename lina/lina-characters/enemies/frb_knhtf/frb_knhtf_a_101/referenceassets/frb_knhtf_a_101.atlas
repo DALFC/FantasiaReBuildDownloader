@@ -1,0 +1,90 @@
+
+frb_knhtf_a_101.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 609, 2
+  size: 168, 167
+  orig: 1540, 1540
+  offset: 831, 512
+  index: -1
+F_arm_LDownZ
+  rotate: false
+  xy: 861, 550
+  size: 153, 159
+  orig: 1540, 1540
+  offset: 699, 514
+  index: -1
+F_arm_LUp
+  rotate: false
+  xy: 31, 426
+  size: 82, 86
+  orig: 1540, 1540
+  offset: 803, 621
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 779, 7
+  size: 151, 166
+  orig: 1540, 1540
+  offset: 539, 501
+  index: -1
+F_arm_RUp
+  rotate: false
+  xy: 861, 457
+  size: 79, 91
+  orig: 1540, 1540
+  offset: 632, 622
+  index: -1
+F_body
+  rotate: false
+  xy: 2, 272
+  size: 530, 439
+  orig: 1540, 1540
+  offset: 492, 330
+  index: -1
+F_fur
+  rotate: false
+  xy: 310, 10
+  size: 297, 159
+  orig: 1540, 1540
+  offset: 629, 668
+  index: -1
+F_hand_L
+  rotate: true
+  xy: 354, 171
+  size: 169, 477
+  orig: 1540, 1540
+  offset: 885, 405
+  index: -1
+F_hand_LZ
+  rotate: false
+  xy: 2, 42
+  size: 306, 228
+  orig: 1540, 1540
+  offset: 533, 549
+  index: -1
+F_hand_R
+  rotate: false
+  xy: 942, 465
+  size: 62, 83
+  orig: 1540, 1540
+  offset: 555, 467
+  index: -1
+F_hat
+  rotate: false
+  xy: 533, 342
+  size: 326, 367
+  orig: 1540, 1540
+  offset: 602, 726
+  index: -1
+F_robe
+  rotate: true
+  xy: 833, 160
+  size: 180, 175
+  orig: 1540, 1540
+  offset: 662, 585
+  index: -1

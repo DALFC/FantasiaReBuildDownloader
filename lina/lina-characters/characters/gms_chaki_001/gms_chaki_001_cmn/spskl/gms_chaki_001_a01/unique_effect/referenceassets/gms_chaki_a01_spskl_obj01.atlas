@@ -1,0 +1,195 @@
+
+gms_chaki_a01_spskl_obj01.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aguri_1
+  rotate: true
+  xy: 1468, 341
+  size: 68, 120
+  orig: 512, 512
+  offset: 224, 200
+  index: -1
+aguri_1_kya
+  rotate: false
+  xy: 1346, 332
+  size: 120, 124
+  orig: 512, 512
+  offset: 180, 200
+  index: -1
+aguri_2
+  rotate: true
+  xy: 1472, 10
+  size: 68, 116
+  orig: 512, 512
+  offset: 224, 200
+  index: -1
+aguri_hart_dai
+  rotate: false
+  xy: 1592, 146
+  size: 48, 40
+  orig: 512, 512
+  offset: 232, 248
+  index: -1
+aguri_hart_syo
+  rotate: false
+  xy: 1622, 234
+  size: 28, 24
+  orig: 512, 512
+  offset: 244, 256
+  index: -1
+anim_0
+  rotate: false
+  xy: 340, 8
+  size: 332, 448
+  orig: 512, 512
+  offset: 76, 24
+  index: -1
+anim_1
+  rotate: false
+  xy: 2, 12
+  size: 336, 444
+  orig: 512, 512
+  offset: 72, 24
+  index: -1
+anim_2
+  rotate: false
+  xy: 674, 16
+  size: 336, 440
+  orig: 512, 512
+  offset: 72, 24
+  index: -1
+anim_3
+  rotate: false
+  xy: 1012, 16
+  size: 332, 440
+  orig: 512, 512
+  offset: 76, 24
+  index: -1
+boko_1
+  rotate: false
+  xy: 1346, 206
+  size: 104, 124
+  orig: 512, 512
+  offset: 200, 196
+  index: -1
+boko_2
+  rotate: false
+  xy: 1346, 80
+  size: 104, 124
+  orig: 512, 512
+  offset: 200, 196
+  index: -1
+bom_1
+  rotate: false
+  xy: 1524, 416
+  size: 64, 36
+  orig: 512, 512
+  offset: 224, 240
+  index: -1
+bom_2
+  rotate: false
+  xy: 1590, 416
+  size: 64, 36
+  orig: 512, 512
+  offset: 224, 240
+  index: -1
+bom_3
+  rotate: true
+  xy: 1592, 80
+  size: 64, 36
+  orig: 512, 512
+  offset: 224, 240
+  index: -1
+jiki_tate
+  rotate: false
+  xy: 1590, 284
+  size: 64, 64
+  orig: 512, 512
+  offset: 224, 224
+  index: -1
+jiki_yoko_1
+  rotate: true
+  xy: 1452, 80
+  size: 128, 68
+  orig: 512, 512
+  offset: 188, 220
+  index: -1
+jiki_yoko_2
+  rotate: true
+  xy: 1468, 210
+  size: 128, 68
+  orig: 512, 512
+  offset: 188, 220
+  index: -1
+jiki_yoko_3
+  rotate: true
+  xy: 1522, 80
+  size: 128, 68
+  orig: 512, 512
+  offset: 188, 220
+  index: -1
+jiki_yoko_s
+  rotate: false
+  xy: 1346, 2
+  size: 124, 76
+  orig: 512, 512
+  offset: 188, 212
+  index: -1
+musi_1
+  rotate: false
+  xy: 1590, 350
+  size: 64, 64
+  orig: 512, 512
+  offset: 224, 224
+  index: -1
+musi_2
+  rotate: true
+  xy: 1538, 210
+  size: 72, 64
+  orig: 512, 512
+  offset: 220, 224
+  index: -1
+musi_3
+  rotate: true
+  xy: 1590, 6
+  size: 72, 64
+  orig: 512, 512
+  offset: 220, 224
+  index: -1
+sumah_1
+  rotate: false
+  xy: 1630, 80
+  size: 24, 44
+  orig: 512, 512
+  offset: 244, 228
+  index: -1
+sumah_2
+  rotate: false
+  xy: 1630, 188
+  size: 16, 44
+  orig: 512, 512
+  offset: 248, 228
+  index: -1
+sumah_3
+  rotate: false
+  xy: 1642, 126
+  size: 8, 44
+  orig: 512, 512
+  offset: 252, 228
+  index: -1
+sumah_4
+  rotate: false
+  xy: 1604, 234
+  size: 16, 44
+  orig: 512, 512
+  offset: 248, 228
+  index: -1
+sumah_5
+  rotate: false
+  xy: 1604, 188
+  size: 24, 44
+  orig: 512, 512
+  offset: 244, 228
+  index: -1

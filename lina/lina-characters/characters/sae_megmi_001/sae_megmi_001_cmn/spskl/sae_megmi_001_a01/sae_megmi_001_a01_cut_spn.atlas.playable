@@ -1,0 +1,90 @@
+
+sae_megmi_001_a01_cut_spn.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sカーディガン
+  rotate: false
+  xy: 1274, 4
+  size: 294, 243
+  orig: 2713, 2687
+  offset: 1169, 965
+  index: -1
+Sカーディガン裏
+  rotate: 180
+  xy: 1576, 64
+  size: 244, 200
+  orig: 2713, 2687
+  offset: 1155, 1014
+  index: -1
+S体
+  rotate: false
+  xy: 923, 134
+  size: 246, 360
+  orig: 2713, 2687
+  offset: 1113, 893
+  index: -1
+S前髪
+  rotate: false
+  xy: 1799, 183
+  size: 248, 238
+  orig: 2713, 2687
+  offset: 1125, 1167
+  index: -1
+S後髪
+  rotate: 270
+  xy: 1603, 259
+  size: 236, 224
+  orig: 2713, 2687
+  offset: 1162, 1162
+  index: -1
+S頭
+  rotate: true
+  xy: 1381, 207
+  size: 287, 235
+  orig: 2713, 2687
+  offset: 1147, 1171
+  index: -1
+右腕
+  rotate: true
+  xy: 2, 9
+  size: 134, 291
+  orig: 2713, 2687
+  offset: 1111, 1129
+  index: -1
+帽子_前面
+  rotate: false
+  xy: 1170, 127
+  size: 230, 111
+  orig: 2713, 2687
+  offset: 1153, 1333
+  index: -1
+帽子_背面
+  rotate: true
+  xy: 1167, 240
+  size: 253, 212
+  orig: 2713, 2687
+  offset: 1148, 1250
+  index: -1
+桜
+  rotate: false
+  xy: 2, 144
+  size: 736, 349
+  orig: 2713, 2687
+  offset: 821, 1007
+  index: -1
+足
+  rotate: false
+  xy: 740, 98
+  size: 181, 395
+  orig: 2713, 2687
+  offset: 1154, 598
+  index: -1
+顔
+  rotate: false
+  xy: 1827, 392
+  size: 122, 101
+  orig: 2713, 2687
+  offset: 1176, 1200
+  index: -1

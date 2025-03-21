@@ -1,0 +1,27 @@
+
+fmp_memao_001_obj01.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cockpit
+  rotate: false
+  xy: 2, 614
+  size: 948, 935
+  orig: 1560, 1560
+  offset: 395, 300
+  index: -1
+cp_BG
+  rotate: false
+  xy: 2, 220
+  size: 948, 392
+  orig: 1560, 1560
+  offset: 395, 843
+  index: -1
+door
+  rotate: false
+  xy: 2, 2
+  size: 706, 216
+  orig: 1560, 1560
+  offset: 517, 1019
+  index: -1

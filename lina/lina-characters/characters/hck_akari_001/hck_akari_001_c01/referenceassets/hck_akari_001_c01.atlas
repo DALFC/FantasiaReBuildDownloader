@@ -1,0 +1,377 @@
+
+hck_akari_001_c01.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_arm_LDown
+  rotate: true
+  xy: 1767, 194
+  size: 63, 114
+  orig: 1560, 1560
+  offset: 838, 538
+  index: -1
+B_arm_LUp
+  rotate: true
+  xy: 308, 88
+  size: 69, 130
+  orig: 1560, 1560
+  offset: 872, 627
+  index: -1
+B_arm_RDown
+  rotate: false
+  xy: 815, 13
+  size: 57, 115
+  orig: 1560, 1560
+  offset: 1008, 544
+  index: -1
+B_arm_RUp
+  rotate: true
+  xy: 214, 24
+  size: 62, 121
+  orig: 1560, 1560
+  offset: 978, 631
+  index: -1
+B_body
+  rotate: 270
+  xy: 1726, 258
+  size: 218, 313
+  orig: 1560, 1560
+  offset: 840, 487
+  index: -1
+B_foolhair
+  rotate: 270
+  xy: 1886, 8
+  size: 142, 160
+  orig: 1560, 1560
+  offset: 808, 873
+  index: -1
+B_hairFront_L
+  rotate: 270
+  xy: 1426, 142
+  size: 137, 339
+  orig: 1560, 1560
+  offset: 814, 700
+  index: -1
+B_hairFront_R
+  rotate: 270
+  xy: 2, 126
+  size: 115, 309
+  orig: 1560, 1560
+  offset: 928, 728
+  index: -1
+B_hairPony
+  rotate: true
+  xy: 411, 434
+  size: 189, 540
+  orig: 1560, 1560
+  offset: 976, 509
+  index: -1
+B_hand_L
+  rotate: false
+  xy: 1912, 85
+  size: 45, 60
+  orig: 1560, 1560
+  offset: 827, 500
+  index: -1
+B_hand_R
+  rotate: false
+  xy: 2, 335
+  size: 51, 55
+  orig: 1560, 1560
+  offset: 1034, 508
+  index: -1
+B_head
+  rotate: true
+  xy: 1484, 277
+  size: 219, 240
+  orig: 1560, 1560
+  offset: 861, 762
+  index: -1
+B_leg_LDown
+  rotate: true
+  xy: 1212, 553
+  size: 71, 195
+  orig: 1560, 1560
+  offset: 877, 187
+  index: -1
+B_leg_LUp
+  rotate: true
+  xy: 1692, 76
+  size: 90, 218
+  orig: 1560, 1560
+  offset: 855, 342
+  index: -1
+B_leg_RDown
+  rotate: false
+  xy: 790, 239
+  size: 100, 197
+  orig: 1560, 1560
+  offset: 1024, 184
+  index: -1
+B_leg_RUp
+  rotate: true
+  xy: 1134, 164
+  size: 129, 215
+  orig: 1560, 1560
+  offset: 944, 345
+  index: -1
+F_arm_LDown
+  rotate: false
+  xy: 353, 279
+  size: 52, 111
+  orig: 1560, 1560
+  offset: 1009, 543
+  index: -1
+F_arm_LUp
+  rotate: true
+  xy: 684, 51
+  size: 61, 128
+  orig: 1560, 1560
+  offset: 979, 624
+  index: -1
+F_arm_LZDown
+  rotate: false
+  xy: 1997, 483
+  size: 46, 77
+  orig: 1560, 1560
+  offset: 1031, 646
+  index: -1
+F_arm_LZUp
+  rotate: false
+  xy: 1040, 166
+  size: 86, 62
+  orig: 1560, 1560
+  offset: 979, 693
+  index: -1
+F_arm_RDown
+  rotate: true
+  xy: 440, 27
+  size: 63, 118
+  orig: 1560, 1560
+  offset: 843, 544
+  index: -1
+F_arm_RDown2
+  rotate: false
+  xy: 965, 10
+  size: 63, 115
+  orig: 1560, 1560
+  offset: 843, 544
+  index: -1
+F_arm_RUp
+  rotate: true
+  xy: 562, 28
+  size: 64, 120
+  orig: 1560, 1560
+  offset: 875, 634
+  index: -1
+F_arm_RZDown
+  rotate: false
+  xy: 838, 573
+  size: 77, 49
+  orig: 1560, 1560
+  offset: 783, 679
+  index: -1
+F_arm_RZUp
+  rotate: false
+  xy: 2, 26
+  size: 112, 62
+  orig: 1560, 1560
+  offset: 828, 696
+  index: -1
+F_body
+  rotate: true
+  xy: 2, 196
+  size: 194, 350
+  orig: 1560, 1560
+  offset: 863, 462
+  index: -1
+F_core
+  rotate: false
+  xy: 874, 48
+  size: 89, 95
+  orig: 1560, 1560
+  offset: 944, 1111
+  index: -1
+F_foolhair
+  rotate: false
+  xy: 1292, 12
+  size: 111, 137
+  orig: 1560, 1560
+  offset: 830, 881
+  index: -1
+F_hairFront_C
+  rotate: false
+  xy: 1883, 146
+  size: 164, 152
+  orig: 1560, 1560
+  offset: 850, 839
+  index: -1
+F_hairFront_L
+  rotate: 270
+  xy: 752, 112
+  size: 123, 319
+  orig: 1560, 1560
+  offset: 944, 699
+  index: -1
+F_hairFront_L2
+  rotate: false
+  xy: 1398, 548
+  size: 87, 75
+  orig: 1560, 1560
+  offset: 924, 947
+  index: -1
+F_hairFront_R
+  rotate: 270
+  xy: 448, 92
+  size: 124, 314
+  orig: 1560, 1560
+  offset: 832, 706
+  index: -1
+F_hairFront_R2
+  rotate: false
+  xy: 1360, 219
+  size: 101, 90
+  orig: 1560, 1560
+  offset: 862, 932
+  index: -1
+F_hairPony
+  rotate: true
+  xy: 949, 409
+  size: 214, 536
+  orig: 1560, 1560
+  offset: 955, 508
+  index: -1
+F_hand_L
+  rotate: false
+  xy: 337, 27
+  size: 52, 59
+  orig: 1560, 1560
+  offset: 1033, 503
+  index: -1
+F_hand_LZ
+  rotate: false
+  xy: 553, 584
+  size: 46, 38
+  orig: 1560, 1560
+  offset: 1030, 631
+  index: -1
+F_hand_R
+  rotate: false
+  xy: 787, 375
+  size: 50, 57
+  orig: 1560, 1560
+  offset: 825, 504
+  index: -1
+F_hand_RZ
+  rotate: false
+  xy: 601, 584
+  size: 46, 38
+  orig: 1560, 1560
+  offset: 769, 673
+  index: -1
+F_head
+  rotate: true
+  xy: 892, 230
+  size: 214, 240
+  orig: 1560, 1560
+  offset: 865, 762
+  index: -1
+F_leg_LDown
+  rotate: 270
+  xy: 2, 59
+  size: 112, 211
+  orig: 1560, 1560
+  offset: 1025, 172
+  index: -1
+F_leg_LUp
+  rotate: false
+  xy: 655, 222
+  size: 130, 215
+  orig: 1560, 1560
+  offset: 946, 338
+  index: -1
+F_leg_LZDown
+  rotate: true
+  xy: 1495, 50
+  size: 102, 189
+  orig: 1560, 1560
+  offset: 1021, 192
+  index: -1
+F_leg_RDown
+  rotate: true
+  xy: 1015, 550
+  size: 73, 197
+  orig: 1560, 1560
+  offset: 879, 191
+  index: -1
+F_leg_RUp
+  rotate: true
+  xy: 1073, 72
+  size: 90, 217
+  orig: 1560, 1560
+  offset: 855, 341
+  index: -1
+S_ear
+  rotate: false
+  xy: 2001, 426
+  size: 38, 55
+  orig: 1560, 1560
+  offset: 975, 789
+  index: -1
+S_hairFront_C
+  rotate: 270
+  xy: 1349, 75
+  size: 118, 146
+  orig: 1560, 1560
+  offset: 844, 837
+  index: -1
+S_hairFront_L
+  rotate: true
+  xy: 1134, 293
+  size: 153, 346
+  orig: 1560, 1560
+  offset: 881, 685
+  index: -1
+S_hairFront_R
+  rotate: true
+  xy: 315, 159
+  size: 89, 328
+  orig: 1560, 1560
+  offset: 852, 692
+  index: -1
+S_hairPony
+  rotate: 270
+  xy: 1478, 438
+  size: 186, 518
+  orig: 1560, 1560
+  offset: 1021, 521
+  index: -1
+S_hairfool
+  rotate: true
+  xy: 1402, 4
+  size: 84, 137
+  orig: 1560, 1560
+  offset: 814, 859
+  index: -1
+S_head
+  rotate: true
+  xy: 411, 249
+  size: 216, 242
+  orig: 1560, 1560
+  offset: 864, 761
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 392
+  size: 407, 230
+  orig: 1560, 1560
+  offset: 497, 434
+  index: -1
+weapon_acs
+  rotate: true
+  xy: 1931, 562
+  size: 60, 106
+  orig: 1560, 1560
+  offset: 886, 421
+  index: -1

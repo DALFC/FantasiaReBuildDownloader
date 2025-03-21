@@ -1,0 +1,111 @@
+
+fmp_p1211_b_201.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_LDown
+  rotate: false
+  xy: 482, 10
+  size: 83, 124
+  orig: 1540, 1540
+  offset: 813, 489
+  index: -1
+arm_LUp
+  rotate: true
+  xy: 644, 49
+  size: 85, 152
+  orig: 1540, 1540
+  offset: 793, 564
+  index: -1
+arm_RDown
+  rotate: false
+  xy: 651, 207
+  size: 77, 135
+  orig: 1540, 1540
+  offset: 645, 493
+  index: -1
+arm_RUp
+  rotate: false
+  xy: 567, 15
+  size: 75, 119
+  orig: 1540, 1540
+  offset: 665, 591
+  index: -1
+body
+  rotate: false
+  xy: 2, 31
+  size: 298, 479
+  orig: 1540, 1540
+  offset: 644, 289
+  index: -1
+coat_himoL
+  rotate: false
+  xy: 561, 337
+  size: 59, 173
+  orig: 1540, 1540
+  offset: 789, 413
+  index: -1
+coat_himoR
+  rotate: false
+  xy: 622, 344
+  size: 66, 166
+  orig: 1540, 1540
+  offset: 633, 411
+  index: -1
+hand_L
+  rotate: true
+  xy: 404, 2
+  size: 70, 76
+  orig: 1540, 1540
+  offset: 834, 435
+  index: -1
+hand_R
+  rotate: true
+  xy: 651, 147
+  size: 58, 71
+  orig: 1540, 1540
+  offset: 636, 439
+  index: -1
+head
+  rotate: false
+  xy: 482, 136
+  size: 167, 173
+  orig: 1540, 1540
+  offset: 676, 709
+  index: -1
+hood
+  rotate: false
+  xy: 302, 16
+  size: 74, 43
+  orig: 1540, 1540
+  offset: 767, 687
+  index: -1
+leg_LDown
+  rotate: false
+  xy: 302, 279
+  size: 141, 231
+  orig: 1540, 1540
+  offset: 787, 174
+  index: -1
+leg_LUp
+  rotate: false
+  xy: 445, 311
+  size: 114, 199
+  orig: 1540, 1540
+  offset: 749, 361
+  index: -1
+leg_RDown
+  rotate: false
+  xy: 302, 61
+  size: 100, 216
+  orig: 1540, 1540
+  offset: 669, 187
+  index: -1
+leg_RUp
+  rotate: false
+  xy: 404, 74
+  size: 76, 203
+  orig: 1540, 1540
+  offset: 680, 359
+  index: -1

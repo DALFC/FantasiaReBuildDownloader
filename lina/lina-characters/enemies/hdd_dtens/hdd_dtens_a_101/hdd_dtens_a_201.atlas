@@ -1,0 +1,188 @@
+
+hdd_dtens_a_201.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+F_arm_LDown
+  rotate: false
+  xy: 2, 95
+  size: 50, 116
+  orig: 1560, 1560
+  offset: 1009, 538
+  index: -1
+F_arm_LUp
+  rotate: false
+  xy: 1026, 604
+  size: 66, 129
+  orig: 1560, 1560
+  offset: 975, 624
+  index: -1
+F_arm_RDown
+  rotate: false
+  xy: 1976, 616
+  size: 61, 117
+  orig: 1560, 1560
+  offset: 845, 545
+  index: -1
+F_arm_RUp
+  rotate: false
+  xy: 1094, 613
+  size: 64, 120
+  orig: 1560, 1560
+  offset: 874, 634
+  index: -1
+F_body
+  rotate: 270
+  xy: 538, 4
+  size: 222, 338
+  orig: 1560, 1560
+  offset: 836, 476
+  index: -1
+F_hairFront_1
+  rotate: true
+  xy: 1344, 29
+  size: 183, 243
+  orig: 1560, 1560
+  offset: 844, 769
+  index: -1
+F_hairFront_2
+  rotate: 270
+  xy: 877, 31
+  size: 183, 243
+  orig: 1560, 1560
+  offset: 844, 769
+  index: -1
+F_hairRear1
+  rotate: false
+  xy: 2, 178
+  size: 310, 557
+  orig: 1560, 1560
+  offset: 844, 433
+  index: -1
+F_hairRear2
+  rotate: 180
+  xy: 282, 178
+  size: 310, 557
+  orig: 1560, 1560
+  offset: 844, 433
+  index: -1
+F_hairRear3
+  rotate: false
+  xy: 585, 178
+  size: 310, 557
+  orig: 1560, 1560
+  offset: 844, 433
+  index: -1
+F_hairSide_L1
+  rotate: 270
+  xy: 1072, 19
+  size: 87, 305
+  orig: 1560, 1560
+  offset: 942, 679
+  index: -1
+F_hairSide_L2
+  rotate: false
+  xy: 1829, 113
+  size: 127, 82
+  orig: 1560, 1560
+  offset: 996, 835
+  index: -1
+F_hairSide_R
+  rotate: true
+  xy: 85, 26
+  size: 183, 329
+  orig: 1560, 1560
+  offset: 822, 674
+  index: -1
+F_hairSide_R2
+  rotate: false
+  xy: 1635, 270
+  size: 125, 134
+  orig: 1560, 1560
+  offset: 795, 828
+  index: -1
+F_hand_L
+  rotate: false
+  xy: 579, 674
+  size: 50, 59
+  orig: 1560, 1560
+  offset: 1035, 503
+  index: -1
+F_hand_R
+  rotate: false
+  xy: 2, 676
+  size: 48, 57
+  orig: 1560, 1560
+  offset: 825, 503
+  index: -1
+F_head
+  rotate: true
+  xy: 1588, 13
+  size: 217, 239
+  orig: 1560, 1560
+  offset: 862, 762
+  index: -1
+F_leg_LDown
+  rotate: false
+  xy: 1923, 369
+  size: 123, 222
+  orig: 1560, 1560
+  offset: 1014, 175
+  index: -1
+F_leg_LUp
+  rotate: false
+  xy: 896, 520
+  size: 128, 213
+  orig: 1560, 1560
+  offset: 948, 338
+  index: -1
+F_leg_RDown
+  rotate: false
+  xy: 1920, 163
+  size: 97, 208
+  orig: 1560, 1560
+  offset: 863, 191
+  index: -1
+F_leg_RUp
+  rotate: false
+  xy: 1878, 515
+  size: 96, 218
+  orig: 1560, 1560
+  offset: 851, 341
+  index: -1
+F_leg_RUp_belt
+  rotate: false
+  xy: 295, 663
+  size: 22, 71
+  orig: 1560, 1560
+  offset: 861, 485
+  index: -1
+F_wing_LDown
+  rotate: true
+  xy: 1359, 229
+  size: 505, 275
+  orig: 1560, 1560
+  offset: 929, 511
+  index: -1
+F_wing_LUp
+  rotate: true
+  xy: 845, 218
+  size: 516, 518
+  orig: 1560, 1560
+  offset: 929, 620
+  index: -1
+F_wing_RDown
+  rotate: 180
+  xy: 1082, 105
+  size: 342, 279
+  orig: 1560, 1560
+  offset: 895, 536
+  index: -1
+F_wing_RUp
+  rotate: false
+  xy: 1614, 231
+  size: 291, 503
+  orig: 1560, 1560
+  offset: 908, 683
+  index: -1
